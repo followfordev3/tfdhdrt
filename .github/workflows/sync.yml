@@ -1,0 +1,29 @@
+name: Sync private file
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"  # هر ساعت
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout public repo
+        uses: actions/checkout@v4
+
+      - name: Fetch file from private repo
+        run: |
+          curl -H "Authorization: token ${{ secrets.good }}" \
+          -H "Accept: application/vnd.github.v3.raw" \
+          -L https://raw.githubusercontent.com/followfordev3/tosavetext/main/sub/Mix/mix.txt  \
+          -o d.txt
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add d.txt
+          git commit -m "sync file" || exit 0
+          git push
