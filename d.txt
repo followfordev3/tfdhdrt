@@ -6,13 +6,32 @@ vless://f1038624-e835-4884-8d8f-34b2eb8198c9@detail.barttary.ir:55802?security=&
 vless://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080/?type=ws&encryption=none&host=vip.az99x.info&path=%2F#@VIPV2rayNGNP
 
 
+vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzllZGY0MjktZjVjMC00MjI2LTgyMzUtMThjNDcwY2VkZDI5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDg0MSIsInBzIjoiQHZpcFYycmF5TkducCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+
+vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&encryption=none&headerType=none&type=tcp#vipV2rayNGnp
+
+vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&encryption=none&headerType=none&type=tcp#vipV2rayNGnp 
+
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#vipV2rayNGnp
+
+
+vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&encryption=none&headerType=none&type=tcp#
+
+
+vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=grand-short-auto-shahriar.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#vipV2rayNGnp
+
+vless://ce63db4c-b3c4-4da8-90bf-b9cbb76861a0@vercel.com:443?type=xhttp&security=tls&sni=vercel.com&alpn=h2&fp=chrome&host=grand-short-auto-shahriar.vercel.app&path=/&mode=packet-up#vipV2rayNGnp
+
+
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#
 
 
 vless://b31e7244-28fd-4975-b534-d1cecd7fc8cd@185.143.233.200:80?path=%2F&security=none&encryption=none&host=refer.parsimas.ir&type=ws#%40@ultrasurf_12
 
 
-vless://d17f8922-93e7-4756-be18-c15c8ee59b63@varzesh3.com:80?path=%2F&security=&encryption=none&host=nobody.panivo.ir&type=ws#https://t.me/Configir98 
+vless://f1038624-e835-4884-8d8f-34b2eb8198c9@detail.barttary.ir:55802?security=none&encryption=none&headerType=none&type=tcp#ultrasurf_12
 
 
 vless://b738ce99-ddaa-4eea-a3f6-2266e1cc961c@95.38.197.219:41379?security=none&encryption=none&headerType=none&type=tcp#https://t.me/Configir98 
@@ -21,6 +40,14 @@ vless://b738ce99-ddaa-4eea-a3f6-2266e1cc961c@95.38.197.219:41379?security=none&e
 vless://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080/?type=ws&encryption=none&host=vip.az99x.info&path=%2F#@vipV2rayNGnp
 
 vless://f1038624-e835-4884-8d8f-34b2eb8198c9@detail.barttary.ir:55802?security=&encryption=none&headerType=none&type=tcp#vipV2rayNGnp
+
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#https://t.me/Configir98 
+
+
+vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&encryption=none&headerType=none&type=tcp#https://t.me/Configir98
+
+vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&encryption=none&headerType=none&type=tcp#https://t.me/Configir98 
 
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9کانفیگ ویتوری ✅اگه خوب بود ری اکشن بزنید ❤😊@crgaming7✨✨✨✨✨
