@@ -1,14 +1,18 @@
 
 
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=grand-short-auto-shahriar.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#vipV2rayNGnp
-
-vless://ce63db4c-b3c4-4da8-90bf-b9cbb76861a0@vercel.com:443?type=xhttp&security=tls&sni=vercel.com&alpn=h2&fp=chrome&host=grand-short-auto-shahriar.vercel.app&path=/&mode=packet-up#vipV2rayNGnp
+vless://62bc3662-5366-45ff-84d6-7218ddf5eddf@185.143.233.5:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=isna.ir#vipV2rayNGnp
 
 
 vless://a818d89a-7230-4b78-85a5-a9ae5c49e146@dzvl2pxz.darkube.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=dzvl2pxz.darkube.ir&fp=chrome&type=ws&allowInsecure=1&sni=dzvl2pxz.darkube.ir#vipV2rayNGnp
 
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#
+vless://a818d89a-7230-4b78-85a5-a9ae5c49e146@dzvl2pxz.darkube.ir:443?encryption=none&type=ws&security=tls&path=%2F&host=dzvl2pxz.darkube.ir&sni=dzvl2pxz.darkube.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#vipV2rayNGnp
+
+
+vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&encryption=none&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&headerType=none&fp=chrome&spx=%2F%20&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e473bbc75224b9df#vipV2rayNGnp
+
+
+vless://36a69e01-9e30-47fd-982c-1111ed03fa7f@rfiksma.top:41051?encryption=none&type=tcp&headerType=none#
 
 
 vless://b31e7244-28fd-4975-b534-d1cecd7fc8cd@185.143.233.200:80?path=%2F&security=none&encryption=none&host=refer.parsimas.ir&type=ws#%40@ultrasurf_12
@@ -26,10 +30,25 @@ vless://441239f9-3017-4ab3-b123-23eeaa48133b@104.20.6.134:443?encryption=none&ty
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.20.6.134:2096?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#@ultrasurf_12
 
 
+vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?type=ws&host=d.nsa03.com#%F0%9F%9A%A8%20@ultrasurf_12
+
+
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.20.6.134:2096?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#https://t.me/Configir98 
 
 
 vless://a818d89a-7230-4b78-85a5-a9ae5c49e146@dzvl2pxz.darkube.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=dzvl2pxz.darkube.ir&fp=chrome&type=ws&allowInsecure=1&sni=dzvl2pxz.darkube.ir#https://t.me/Configir98 
+
+
+vless://62bc3662-5366-45ff-84d6-7218ddf5eddf@185.143.233.5:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=isna.ir#https://t.me/Configir98 
+
+
+vless://a818d89a-7230-4b78-85a5-a9ae5c49e146@dzvl2pxz.darkube.ir:443?encryption=none&type=ws&security=tls&path=%2F&host=dzvl2pxz.darkube.ir&sni=dzvl2pxz.darkube.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#https://t.me/Configir98 
+
+
+vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&encryption=none&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&headerType=none&fp=chrome&spx=%2F%20&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e473bbc75224b9df#https%3A%2F%2Ft.me%2FConfigir98 
+
+
+vless://36a69e01-9e30-47fd-982c-1111ed03fa7f@rfiksma.top:41051?encryption=none&type=tcp&headerType=none#https://t.me/Configir98
 
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9کانفیگ ویتوری ✅اگه خوب بود ری اکشن بزنید ❤😊@crgaming7✨✨✨✨✨
