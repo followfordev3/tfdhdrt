@@ -37,6 +37,9 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.5.134:80?encryption=none&typ
 vless://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=vip.az99x.info&type=ws#Join ➣ @ultrasurf_12
 
 
+vless://850255c0-8444-4b92-bf3f-01cde9f52fab@office.weai.ir:443?security=reality&encryption=none&pbk=065ekp_uJftu5-HVe7NziOIS7ajpv0dylhsJK6ylzRE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=git.revi.voto&sid=ffe4b45f7e2f0778#%F0%9F%8D%81%40ultrasurf_12
+
+
 vless://d24e1b75-d80f-4818-d621-ee919ea71c16@94.183.149.168:8880?path=%2F&security=none&encryption=none&type=ws#https://t.me/Configir98
 
 vless://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443?mode=auto&path=%2Ftt&security=tls&encryption=none&host=heydari.vercel.app&type=xhttp&sni=vercel.com#https://t.me/Configir98
