@@ -1,28 +1,6 @@
 
 
-vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#@vipV2rayNGnp
-
-vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@188.214.129.172:443?security=reality&encryption=none&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=flowwow.com#@vipV2rayNGnpvipV2rayNGnp
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.136.176:6593?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@vipV2rayNGnp
-
-vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#@vipV2rayNGnp
-
-vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@vipV2rayNGnp
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVVVKZGRPSGxDOTNzUU1LR1hCSGdB@pte.vaslp.com:3184#@vipV2rayNGnp
-
-
-vmess://eyJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjU0NzIxYTktNTczOS00YmFmLWIzNWQtOWJjOTUwZTM0NmRiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS9kaXJlY3QiLCJwb3J0IjoiNDQzIiwicHMiOiJAVklQVjJyYXlOR05QIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-
-vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto&path=%2Fzyphervpnsalle&security=tls&encryption=none&insecure=1&host=vercel-xhttp-beta-flame.vercel.app&type=xhttp&allowInsecure=1&sni=nextjs.org#%vipV2rayNGnp
-
-
-vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=%2Fws&security=&encryption=none&host=app.s7r.ir&type=ws#vipV2rayNGnp
-
-
-vless://65b13fcb-d6f8-45ed-a4d3-010234a07e55@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=an.8lack.ir&fp=firefox&type=ws&sni=an.8lack.ir#vipV2rayNGnp
+vmess://eyJhZGQiOiJpLWxvdmUtaXJhbi5hbWxha2F5dW5pLmlyIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoicmFuZG9taXplZCIsImhvc3QiOiJpLWxvdmUtaXJhbi5hbWxha2F5dW5pLmlyIiwiaWQiOiJhMGI1OGQ1NS1iMjliLTdjMGUtZDc3NC0zZmUwNGZjMzc1ZDgiLCJuZXQiOiJ3cyIsInBhdGgiOiI/ZWRcdTAwM2QyMDUzIiwicG9ydCI6IjIwNTMiLCJwcyI6IlRya2liaSBAQFZJUFYycmF5TkdOUCAgMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJpLWxvdmUtaXJhbi5hbWxha2F5dW5pLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.20.6.134:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=2026.hhhhh.eu.org&path=/222.167.202.31:7443&sni=2026.hhhhh.eu.org&fp=firefox&alpn=http/1.1#@ultrasurf_12
@@ -56,19 +34,17 @@ vless://850255c0-8444-4b92-bf3f-01cde9f52fab@office.weai.ir:443?security=reality
 vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#
 
 
-vless://9e8d2012-bafc-4f43-8baf-94ac4de60784@abr.superip.ir:2082?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#https://t.me/Configir98
-
-
-vmess://eyJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjU0NzIxYTktNTczOS00YmFmLWIzNWQtOWJjOTUwZTM0NmRiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS9kaXJlY3QiLCJwb3J0IjoiNDQzIiwicHMiOiJodHRwczovL3QubWUvQ29uZmlnaXI5OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-
-vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto&path=%2Fzyphervpnsalle&security=tls&encryption=none&insecure=1&host=vercel-xhttp-beta-flame.vercel.app&type=xhttp&allowInsecure=1&sni=nextjs.org#https://t.me/Configir98
-
-
-vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=%2Fws&security=&encryption=none&host=app.s7r.ir&type=ws#https://t.me/Configir98
-
-
 vless://65b13fcb-d6f8-45ed-a4d3-010234a07e55@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=an.8lack.ir&fp=firefox&type=ws&sni=an.8lack.ir#https://t.me/Configir98
+
+
+vmess://eyJhZGQiOiJpLWxvdmUtaXJhbi5hbWxha2F5dW5pLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0IjoiaS1sb3ZlLWlyYW4uYW1sYWtheXVuaS5pciIsImlkIjoiYTBiNThkNTUtYjI5Yi03YzBlLWQ3NzQtM2ZlMDRmYzM3NWQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiP2VkXHUwMDNkMjA1MyIsInBvcnQiOiIyMDUzIiwicHMiOiJodHRwczovL3QubWUvQ29uZmlnaXI5OCIsInNjeSI6ImF1dG8iLCJzbmkiOiJpLWxvdmUtaXJhbi5hbWxha2F5dW5pLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMjU0NzIxYTktNTczOS00YmFmLWIzNWQtOWJjOTUwZTM0NmRiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS9kaXJlY3QiLCJwb3J0IjoiNDQzIiwicHMiOiJodHRwczovL3QubWUvQ29uZmlnaXI5OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+
+vmess://eyJhZGQiOiJpLWxvdmUtaXJhbi5hbWxha2F5dW5pLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0IjoiaS1sb3ZlLWlyYW4uYW1sYWtheXVuaS5pciIsImlkIjoiYTBiNThkNTUtYjI5Yi03YzBlLWQ3NzQtM2ZlMDRmYzM3NWQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiP2VkXHUwMDNkMjA1MyIsInBvcnQiOiIyMDUzIiwicHMiOiJodHRwczovL3QubWUvQ29uZmlnaXI5OCIsInNjeSI6ImF1dG8iLCJzbmkiOiJpLWxvdmUtaXJhbi5hbWxha2F5dW5pLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMjU0NzIxYTktNTczOS00YmFmLWIzNWQtOWJjOTUwZTM0NmRiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS9kaXJlY3QiLCJwb3J0IjoiNDQzIiwicHMiOiJodHRwczovL3QubWUvQ29uZmlnaXI5OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9کانفیگ ویتوری ✅اگه خوب بود ری اکشن بزنید ❤😊@crgaming7✨✨✨✨✨
