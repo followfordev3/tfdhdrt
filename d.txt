@@ -1,40 +1,5 @@
 
 
-vless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?encryption=none&type=ws&host=app.phonepanel.ir&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=app.phonepanel.ir&alpn=h3,h2,http/1.1#@VIPV2rayNGNP
-
-vless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#@VIPV2rayNGNP
-
-vless://954968cf-1827-404e-9862-6c84fe234086@xhttp2.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#@VIPV2rayNGNP
-
-vless://954968cf-1827-404e-9862-6c84fe234086@mv2.amydoodles.com:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#@VIPV2rayNGNP
-
-vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?encryption=none&type=tcp&headerType=http&host=www.tgju.org&path=/&security=none#@VIPV2rayNGNP
-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443?outline=1&prefix=POST%20N330abfk#@VIPV2rayNGNP
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443?outline=1&prefix=POST%20Y330ac0y#@VIPV2rayNGNP
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443?outline=1&prefix=POST%20Y330ac0y#
-
-
-vless://52115d71-4895-4010-9b5d-5f456b08aebd@eco.gymplusplus.com:2052?path=%2F&security=none&encryption=none&type=ws#@vipV2rayNGnp
-
-vless://1bfbdec8-963b-8f72-a3f9-60ca8d88d035@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws#@vipV2rayNGnp
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#@vipV2rayNGnp
-
-vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#@oliver_soul
-
-vless://f736f733-6026-44ea-8660-da12d984cca7@eco.gymplusplus.com:2052?path=%2F&security=none&encryption=none&type=ws#vipV2rayNGnp
-
-
-vless://2b907f5f-87ef-46bb-838c-9f18c1fd2c2f@arvancloud.ir:80?encryption=none&type=ws&path=%2Fed%3D44&host=blog.s7r.ir#vipV2rayNGnp
-
-
-vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?path=%2Fpreply&security=none&encryption=none&host=app.gplance.com&type=ws#vipV2rayNGnp
-
-
 trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none#@VIPV2rayNGNP
 
 
@@ -51,42 +16,28 @@ vmess://eyJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoi
 vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?path=%2Fpreply&security=none&encryption=none&host=app.gplance.com&type=ws#@VIPV2rayNGNP
 
 
+trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none#
+
+
 vmess://eyJ2IjoiMiIsInBzIjoi2qnZhdqp24zwn5KFIDIiLCJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJwb3J0IjoiNDQzIiwiaWQiOiIyNTQ3MjFhOS01NzM5LTRiYWYtYjM1ZC05YmM5NTBlMzQ2ZGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9hcGkvZGlyZWN0IiwidGxzIjoidGxzIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=@ultrasurf_12
 
 
 vmess://eyJ2IjoiMiIsInBzIjoi2qnZhdqp24zwn5KFIDEiLCJhZGQiOiIxODUuMjM2LjM4LjQ0IiwicG9ydCI6IjE5OTQ2IiwiaWQiOiJjOWU0MjUzNy04NjUyLTRhNGMtODVkMy0wZDM2YWJmMzhmODgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=@ultrasurf_12
 
 
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206dndGWHR2Ky96SDJrYVFNVUxEWHRIZz09OkV3aGJhd3RVeDFFYjVCZDM0TzdoQ1BzaEczNDRuNWd3@vip.cafebaha.mom:5000#https://t.me/Configir98
-
-vless://4f8b8ea9-dc11-48ff-af72-d65ab7ab59be@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=0&sni=vitallife.gg#https://t.me/Configir98
+vless://31c5b6e8-922d-46f4-a664-8e2b37b3e8a0@iliya.8ib.ir:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&type=xhttp#https://t.me/Configir98
 
 
-vless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?encryption=none&type=ws&host=app.phonepanel.ir&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=app.phonepanel.ir&alpn=h3,h2,http/1.1#https://t.me/Configir98
-
-vless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#https://t.me/Configir98
-
-vless://954968cf-1827-404e-9862-6c84fe234086@xhttp2.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#https://t.me/Configir98
-
-vless://954968cf-1827-404e-9862-6c84fe234086@mv2.amydoodles.com:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#https://t.me/Configir98
-
-vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?encryption=none&type=tcp&headerType=http&host=www.tgju.org&path=/&security=none#https://t.me/Configir98
+vless://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@helm.sh:443?mode=auto&path=%2Fmambo&security=tls&encryption=none&insecure=1&host=69f18d8defe5a8b0745a3379--magenta-banoffee-fb08a6.netlify.app&type=xhttp&allowInsecure=1&sni=helm.sh#@Configir98
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443?outline=1&prefix=POST%20N330abfk#https://t.me/Configir98
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443?outline=1&prefix=POST%20Y330ac0y#https://t.me/Configir98
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443?outline=1&prefix=POST%20Y330ac0y#https://t.me/Configir98
+vless://618cc150-1daf-4c6e-bb2a-5b6168fd4f82@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#https://t.me/Configir98
 
 
-vless://2b907f5f-87ef-46bb-838c-9f18c1fd2c2f@arvancloud.ir:80?encryption=none&type=ws&path=%2Fed%3D44&host=blog.s7r.ir#https://t.me/Configir98
+vless://04fa65ad-5178-49c0-b679-a5442e3bfe78@185.143.234.235:80?path=%2F&security=&encryption=none&host=d.nsa03.com&type=ws#https://t.me/Configir98
 
 
 vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?path=%2Fpreply&security=none&encryption=none&host=app.gplance.com&type=ws#https://t.me/Configir98
-
-
-trojan://4OE9MojBpg@37.32.20.55:80?security=none&headerType=&type=tcp#https://t.me/Configir98
 
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9کانفیگ ویتوری ✅اگه خوب بود ری اکشن بزنید ❤😊@crgaming7✨✨✨✨✨
@@ -113,6 +64,9 @@ vmess://eyJhZGQiOiJ2MTEubWFpbGlyYW4ubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIs
 vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6Imh0dHBzOi8vdC5tZS9Db25maWdpcjk48J+RkSAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTjwn5GRIDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 کانفیگ ویتوری سوم و چهارم ✅خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@173.234.29.2:990#United%2BStatesسلام صبح تون بخیر 🌹 کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
 
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -139,6 +93,9 @@ vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTjwn5GRIDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@173.234.29.2:990#United%2BStates
+
+
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9کانفیگ ویتوری ✅اگه خوب بود ری اکشن بزنید ❤😊@crgaming7✨✨✨✨✨
 
 
@@ -163,6 +120,9 @@ vmess://eyJhZGQiOiJ2MTEubWFpbGlyYW4ubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIs
 vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6Imh0dHBzOi8vdC5tZS9Db25maWdpcjk48J+RkSAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTjwn5GRIDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 کانفیگ ویتوری سوم و چهارم ✅خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@173.234.29.2:990#United%2BStatesسلام صبح تون بخیر 🌹 کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
 
 
 vmess://eyJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjU0NzIxYTktNTczOS00YmFmLWIzNWQtOWJjOTUwZTM0NmRiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS9kaXJlY3QiLCJwb3J0IjoiNDQzIiwicHMiOiIuMi4gVGFya2liaSBAU3BvdGlmeV9Qb3J0ZWdoYWxpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
