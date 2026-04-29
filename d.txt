@@ -1,10 +1,5 @@
 
 
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206dndGWHR2Ky96SDJrYVFNVUxEWHRIZz09OkV3aGJhd3RVeDFFYjVCZDM0TzdoQ1BzaEczNDRuNWd3@vip.cafebaha.mom:5000#vipV2rayNGnp
-
-vless://4f8b8ea9-dc11-48ff-af72-d65ab7ab59be@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=0&sni=vitallife.gg#vipV2rayNGnp
-
-
 vless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?encryption=none&type=ws&host=app.phonepanel.ir&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=app.phonepanel.ir&alpn=h3,h2,http/1.1#@VIPV2rayNGNP
 
 vless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#@VIPV2rayNGNP
@@ -23,35 +18,43 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443?outli
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443?outline=1&prefix=POST%20Y330ac0y#
 
 
-vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?type=ws&host=d.nsa03.com#%F0%9F%9A%A8%20@ultrasurf_12
+vless://52115d71-4895-4010-9b5d-5f456b08aebd@eco.gymplusplus.com:2052?path=%2F&security=none&encryption=none&type=ws#@vipV2rayNGnp
+
+vless://1bfbdec8-963b-8f72-a3f9-60ca8d88d035@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws#@vipV2rayNGnp
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#@vipV2rayNGnp
+
+vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#@oliver_soul
+
+vless://f736f733-6026-44ea-8660-da12d984cca7@eco.gymplusplus.com:2052?path=%2F&security=none&encryption=none&type=ws#vipV2rayNGnp
 
 
-vless://771bc433-feba-4922-a916-e278fc8b7984@snapp.ir:80?path=%2F&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#Join ➣ @ultrasurf_12
-
-vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#Join ➣ @ultrasurf_12
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidXpOY01JMEtBSzJkUVQvYWx1VGEvZXVQT3lkd2Y1TTNOdlg0Zk5LNVFNPQ@2.189.86.97:33735#Join ➣ @ultrasurf_12
-
-vless://3cf4a468-5196-4bba-8238-abe8f7ec8652@cdn1.jigaartala.shop:26764?type=tcp&encryption=none&security=cr#Join ➣ @ultrasurf_12
-
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.5.134:80?encryption=none&type=ws&path=%2F&host=vip.yaml7.ggff.net#Join ➣ @ultrasurf_12
-
-vless://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=vip.az99x.info&type=ws#Join ➣ @ultrasurf_12
+vless://2b907f5f-87ef-46bb-838c-9f18c1fd2c2f@arvancloud.ir:80?encryption=none&type=ws&path=%2Fed%3D44&host=blog.s7r.ir#vipV2rayNGnp
 
 
-vless://850255c0-8444-4b92-bf3f-01cde9f52fab@office.weai.ir:443?security=reality&encryption=none&pbk=065ekp_uJftu5-HVe7NziOIS7ajpv0dylhsJK6ylzRE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=git.revi.voto&sid=ffe4b45f7e2f0778#%F0%9F%8D%81%40ultrasurf_12
+vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?path=%2Fpreply&security=none&encryption=none&host=app.gplance.com&type=ws#vipV2rayNGnp
 
 
-vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#
+trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none#@VIPV2rayNGNP
+
+
+vless://7eaed3f8-6326-469c-9868-f37e438514ea@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#@vipV2rayNGnp
+
+trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none#@vipV2rayNGnp
+
+vless://2868e109-495f-4041-9b52-61b75be4794f@uk.playshoptv.com:25212?encryption=none&type=tcp#@vipV2rayNGnp
+
+vless://f9fed79c-bc41-4871-8ab3-da46c47d2e38@185.143.232.224:80?path=%2F&security=none&encryption=none&host=sv1.ir5ive.ir&type=ws#@vipV2rayNGnp
+
+vmess://eyJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjU0NzIxYTktNTczOS00YmFmLWIzNWQtOWJjOTUwZTM0NmRiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS9kaXJlY3QiLCJwb3J0IjoiNDQzIiwicHMiOiJAaWN2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?path=%2Fpreply&security=none&encryption=none&host=app.gplance.com&type=ws#@VIPV2rayNGNP
 
 
 vmess://eyJ2IjoiMiIsInBzIjoi2qnZhdqp24zwn5KFIDIiLCJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJwb3J0IjoiNDQzIiwiaWQiOiIyNTQ3MjFhOS01NzM5LTRiYWYtYjM1ZC05YmM5NTBlMzQ2ZGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9hcGkvZGlyZWN0IiwidGxzIjoidGxzIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=@ultrasurf_12
 
 
 vmess://eyJ2IjoiMiIsInBzIjoi2qnZhdqp24zwn5KFIDEiLCJhZGQiOiIxODUuMjM2LjM4LjQ0IiwicG9ydCI6IjE5OTQ2IiwiaWQiOiJjOWU0MjUzNy04NjUyLTRhNGMtODVkMy0wZDM2YWJmMzhmODgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=@ultrasurf_12
-
-
-vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#https://t.me/Configir98
 
 
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206dndGWHR2Ky96SDJrYVFNVUxEWHRIZz09OkV3aGJhd3RVeDFFYjVCZDM0TzdoQ1BzaEczNDRuNWd3@vip.cafebaha.mom:5000#https://t.me/Configir98
@@ -75,6 +78,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443?outli
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443?outline=1&prefix=POST%20Y330ac0y#https://t.me/Configir98
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443?outline=1&prefix=POST%20Y330ac0y#https://t.me/Configir98
+
+
+vless://2b907f5f-87ef-46bb-838c-9f18c1fd2c2f@arvancloud.ir:80?encryption=none&type=ws&path=%2Fed%3D44&host=blog.s7r.ir#https://t.me/Configir98
+
+
+vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?path=%2Fpreply&security=none&encryption=none&host=app.gplance.com&type=ws#https://t.me/Configir98
+
+
+trojan://4OE9MojBpg@37.32.20.55:80?security=none&headerType=&type=tcp#https://t.me/Configir98
 
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9کانفیگ ویتوری ✅اگه خوب بود ری اکشن بزنید ❤😊@crgaming7✨✨✨✨✨
