@@ -1,12 +1,36 @@
 
 
+vmess://eyJhZGQiOiJhLmJ5c3Ryb28uc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMzA5MjFhYy04MmY4LTQ0ZDUtYmU2Mi1mZDdiYTAyYTFiZTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxMDQxIiwicHMiOiJAVklQVjJyYXlOR05QIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+
+vmess://eyJhZGQiOiJwb3J0YWwucGFycnN3ZWIuc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNTJlNjY4Ny1hN2Q5LTQ5MmItYTMzZi1hMGVlZjYxNmE1ZTgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODAiLCJwcyI6IkBWSVBWMnJheU5HTlAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+
 vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=%2F%3Fed%3D2087&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=randomized&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir#@VIPV2rayNGNP
 
 
-vless://21751d42-6262-467d-b3cd-5a12d6dbff57@snapp.ir:2052?security=none&allowInsecure=0&encryption=none&type=ws&host=aban.m610.ir&path=/#@ultrasurf_12
+vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=%2F%3Fed%3D2087&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=randomized&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir#@VIPV2rayNGNP
+
+
+vmess://eyJhZGQiOiJhLmJ5c3Ryb28uc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMzA5MjFhYy04MmY4LTQ0ZDUtYmU2Mi1mZDdiYTAyYTFiZTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxMDQxIiwicHMiOiJAVklQVjJyYXlOR05QIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+
+socks://31.214.174.254:1010/#@VIPV2rayNGNP
+
+
+socks://Og@62.220.126.56:30081#@VIPV2rayNGNP
+
+
+vless://66f73678-34a5-4863-bd7b-cba151a2562e@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cdn.sesrsa.com&type=ws#@VIPV2rayNGNP
 
 
 vless://e8e1e1fc-83e6-4de3-9e08-7d77521e67b4@cf.comecloud.ir:443?path=%2Ftest%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=Clu.servert1op.ir&fp=chrome&type=ws&allowInsecure=0&sni=Clu.servert1op.ir#%40ultrasurf_12
+
+
+socks://Og@185.79.96.94:1070#%40ultrasurf_12
+
+
+socks://Og@185.79.96.94:1070#https://t.me/ultrasurf_12
 
 
 vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=%2F&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#%40ultrasurf_12
@@ -14,18 +38,48 @@ vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=%2F&security=n
 vless://469b6631-f0ab-4ad7-93af-869dd32535e3@185.143.234.235:80?path=%2F&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#%40ultrasurf_12
 
 
-vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=%2F%3Fed%3D2087&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=randomized&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir#@VIPV2rayNGNP
+socks://Og%3D%3D@188.121.110.192:84#%E2%99%A5%EF%B8%8F%40ultrasurf_12
 
 
-vless://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@helm.sh:443?mode=auto&path=%2Fmambo&security=tls&encryption=none&insecure=1&host=69f18d8defe5a8b0745a3379--magenta-banoffee-fb08a6.netlify.app&type=xhttp&allowInsecure=1&sni=helm.sh#کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤ 😊 ✨✨✨✨✨
+socks://Og@94.101.176.90:10808#Telegram%20%3A%20%40ultrasurf_12%20%F0%9F%8D%83
 
 
-vmess://eyJhZGQiOiAiNDUuODkuNTIuMjA3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzk2NTEiLCAicHMiOiAiVFx1MDBmY3JraXllIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
+socks://Og%3D%3D@62.220.126.56:30476#%F0%9F%8D%81%40ultrasurf_12
 
 
-vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?encryption=none&type=tcp&headerType
+socks://Og%3D%3D@62.220.126.56:30476#%F0%9F%8D%81%40ultrasurf_12
 
-vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjYyZDI0MTEtYzM0ZC00NjBiLWE5M2UtYjc4OWUwM2NhOGIzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTE4MiIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+
+socks://31.214.174.254:1010/#https://t.me/ultrasurf_12
+
+
+socks://Og%3D%3D@62.220.126.56:30081#%F0%9F%90%A2%40ultrasurf_12
+
+
+socks://62.220.126.56:30883#https://t.me/Configir98
+
+socks://62.220.126.56:30362#https://t.me/Configir98
+
+socks://62.220.126.56:30355#https://t.me/Configir98
+
+socks://62.220.126.56:30476#https://t.me/Configir98
+
+socks://62.220.126.56:30476#https://t.me/Configir98
+
+
+vless://a3f3a69a-1468-43f3-9f7f-11c05d183dc6@185.143.234.235:80?path=%2F&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#@Configir98
+
+
+vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=%2F%3Fed%3D2087&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=randomized&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir#https://t.me/Configir98
+
+
+socks://Og@62.220.126.56:30081#https://t.me/Configir98
+
+
+vless://66f73678-34a5-4863-bd7b-cba151a2562e@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cdn.sesrsa.com&type=ws#https://t.me/Configir98
+
+
+vless://44203abd-18b1-4316-b972-a37e8bbce930@tik.var.hi-phonee.ir:50216?type=ws&encryption=none&path=%2F&host=&security=none#https://t.me/Configir98
 
 
 vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F&security=&encryption=none&host=d.nsa03.com&type=wsکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
@@ -46,15 +100,7 @@ vless://0407e456-1ada-43dd-afb4-78fc6b4a99e7@snapp.ir:80?path=%2F%3Fed%3D2080&se
 vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=%2F&security=&encryption=none&type=wsکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
 
 
-vless://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@helm.sh:443?mode=auto&path=%2Fmambo&security=tls&encryption=none&insecure=1&host=69f18d8defe5a8b0745a3379--magenta-banoffee-fb08a6.netlify.app&type=xhttp&allowInsecure=1&sni=helm.sh#
-
-
-vmess://eyJhZGQiOiAiNDUuODkuNTIuMjA3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzk2NTEiLCAicHMiOiAiVFx1MDBmY3JraXllIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-
-
-vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?encryption=none&type=tcp&headerType
-
-vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjYyZDI0MTEtYzM0ZC00NjBiLWE5M2UtYjc4OWUwM2NhOGIzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTE4MiIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=%2F%3Fed%3D2087&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=randomized&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.irکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
 vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F&security=&encryption=none&host=d.nsa03.com&type=ws
@@ -75,15 +121,7 @@ vless://0407e456-1ada-43dd-afb4-78fc6b4a99e7@snapp.ir:80?path=%2F%3Fed%3D2080&se
 vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=%2F&security=&encryption=none&type=ws
 
 
-vless://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@helm.sh:443?mode=auto&path=%2Fmambo&security=tls&encryption=none&insecure=1&host=69f18d8defe5a8b0745a3379--magenta-banoffee-fb08a6.netlify.app&type=xhttp&allowInsecure=1&sni=helm.sh#کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤ 😊 ✨✨✨✨✨
-
-
-vmess://eyJhZGQiOiAiNDUuODkuNTIuMjA3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzk2NTEiLCAicHMiOiAiVFx1MDBmY3JraXllIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
-
-
-vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?encryption=none&type=tcp&headerType
-
-vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjYyZDI0MTEtYzM0ZC00NjBiLWE5M2UtYjc4OWUwM2NhOGIzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTE4MiIsInBzIjoiaHR0cHM6Ly90Lm1lL0NvbmZpZ2lyOTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=%2F%3Fed%3D2087&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=randomized&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir
 
 
 vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?path=%2F&security=&encryption=none&host=d.nsa03.com&type=wsکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
@@ -104,4 +142,43 @@ vless://0407e456-1ada-43dd-afb4-78fc6b4a99e7@snapp.ir:80?path=%2F%3Fed%3D2080&se
 vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=%2F&security=&encryption=none&type=wsکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
 
 
-vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=%2F%3Fed%3D2087&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=randomized&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir#%40‌socks://Og@62.220.126.56:30476#%40
+vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=%2F%3Fed%3D2087&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=randomized&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.irکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+
+
+vless://d9902d78-9e1f-4f24-bb6f-01f482fe1897@185.143.233.5:443?path=%2F%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin7.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin7.8lack.ir#%40TROWER_NEWS
+
+vless://469b6631-f0ab-4ad7-93af-869dd32535e3@185.143.234.235:80?path=%2F&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#%40TROWER_NEWS
+
+vless://a2f046ac-33ac-4eb2-9a5e-8e3d1e0166b8@As.dlsp-ir.com:2053?security=reality&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+
+
+vless://d9902d78-9e1f-4f24-bb6f-01f482fe1897@185.143.233.5:443?path=%2F%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin7.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin7.8lack.ir#%40TROWER_NEWS
+
+vless://469b6631-f0ab-4ad7-93af-869dd32535e3@185.143.234.235:80?path=%2F&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#%40TROWER_NEWS
+
+vless://a2f046ac-33ac-4eb2-9a5e-8e3d1e0166b8@As.dlsp-ir.com:2053?security=reality&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
+
+
+vless://d9902d78-9e1f-4f24-bb6f-01f482fe1897@185.143.233.5:443?path=%2F%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin7.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin7.8lack.ir#%40TROWER_NEWS
+
+vless://469b6631-f0ab-4ad7-93af-869dd32535e3@185.143.234.235:80?path=%2F&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#%40TROWER_NEWS
+
+vless://a2f046ac-33ac-4eb2-9a5e-8e3d1e0166b8@As.dlsp-ir.com:2053?security=reality&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+
+
+socks://Og@185.79.96.94:1070#%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%E2%9D%A4
+
+
+vless://9037ec4c-a1f9-4cfa-9d91-cfbf20571175@Ikco.ir:8080?path=%2Fcdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%206%20%40MiTi_4vpn
+
+
+socks://Og@188.121.110.192:84#%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%F0%9F%94%A5
+
+
+socks://Og@62.220.126.56:30081#https%3A%2F%2Ft.me%2FMiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8
+
+
+vless://66f73678-34a5-4863-bd7b-cba151a2562e@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cdn.sesrsa.com&type=ws#%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8
+
+
+vless://b81cfd96-155c-46b4-a339-52ef824c1478@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
