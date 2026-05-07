@@ -1,14 +1,5 @@
 
 
-vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=ws#vipV2rayNGnp
-
-
-socks://Og%3D%3D@45.94.213.213:443#vipV2rayNGnp
-
-
-vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&security=&encryption=none&host=sr.novatechsapr.ir&type=ws#vipV2rayNGnp
-
-
 vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80?path=%2Fws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#%F0%9F%8D%81%40ultrasurf_12
 
 
@@ -29,10 +20,10 @@ vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=%2Fxray&secur
 vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=ws#https://t.me/Configir98
 
 
-vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=ws#https://t.me/Configir98
-
-
 socks://Og%3D%3D@45.94.213.213:443#https://t.me/Configir98
+
+
+socks://Og@62.220.126.92:25393#https://t.me/Configir98
 
 
 socks://Og@185.8.172.128:443
@@ -125,9 +116,6 @@ vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80?encryption=none&
 vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=wsکانفیگ ویتوری 9 ✅خوب بود ری اکشن بزنید ❤ ✨✨✨✨✨✨
 
 
-vless://87a09075-f5f0-4ff9-80df-3e81fcdfd10d@185.143.234.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws#%40
-
-
 vless://b5ffc8c9-ba12-4ee4-1785-a586ea8a6d80@hmt.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.190#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
@@ -192,6 +180,12 @@ vless://d8c75894-1595-4b75-8710-ae8b107368be@snapp.ir:80?path=%2F&security=none&
 vless://a4a81693-db29-4634-be84-e97893217487@s3.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%40TROWER_NEWS
 
 vless://7c505cb3-00dc-4400-961e-357dfcb34437@s1.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+
+
+socks://Og@62.220.126.56:30081#https%3A%2F%2Ft.me%2FMiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8
+
+
+vless://66f73678-34a5-4863-bd7b-cba151a2562e@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cdn.sesrsa.com&type=ws#%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8
 
 
 vless://b81cfd96-155c-46b4-a339-52ef824c1478@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
