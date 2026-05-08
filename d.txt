@@ -1,32 +1,24 @@
 
 
-vless://7ef9fbc7-0fd8-475b-8a84-1c87e7d37dd1@94.182.157.70:8080?path=%2F&security=none&encryption=none&host=s11.mn-g.ir&type=ws#vipV2rayNGnp
-
-
-socks://Og@62.220.126.56:30170#vipV2rayNGnp
-
-
-vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&security=&encryption=none&host=sr.novatechsapr.ir&type=ws#vipV2rayNGnp
-
-
 vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=none&encryption=none&host=p1.razstar.ir&type=ws#vipV2rayNGnp
 
 
+vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#vipV2rayNGnp
+
+
+vless://ae7d645a-c03a-4d21-8047-2f77f315a6b7@snapp.ir:8880?path=%2Felctro&security=none&encryption=none&host=clud.extra-tm.ir&type=ws#vipV2rayNGnp
+
+
+socks://Og@130.185.75.82:9595#1vipV2rayNGnp
+
+vless://054be705-6bbf-42cd-9970-acfc325a34ca@SNApp.ir:80?path=%2FHoseisecu&security=&encryption=none&host=MMW.abanservers.ir&type=ws#2vipV2rayNGnp
+
+socks://Og%3D%3D@62.220.126.56:30170#3vipV2rayNGnp
+
+socks://Og%3D%3D@79.175.177.96:1080#4vipV2rayNGnp
+
+
 vless://7ef9fbc7-0fd8-475b-8a84-1c87e7d37dd1@94.182.157.70:8080?path=%2F&security=none&encryption=none&host=s11.mn-g.ir&type=ws#https://t.me/ultrasurf_12
-
-
-vmess://eyJhZGQiOiIxODUuMTQzLjIzNC45NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicGJiLm5vdmF0ZWNocGx1cy5pciIsImlkIjoiODE2ZThmNDUtYzMzMi00NzA0LTlmMGUtYTllNjI4YzliMTZlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJodHRwczovL3QubWUvQ29uZmlnaXI5OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-
-socks://Og@62.220.126.92:27211#https://t.me/Configir98
-
-socks://Og@62.220.126.56:31687#https://t.me/Configir98
-
-
-vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&security=&encryption=none&host=sr.novatechsapr.ir&type=ws#https://t.me/Configir98
-
-
-vless://57847df6-3ef1-477f-986c-c8dfb55d4160@185.143.233.235:80?path=%2F&security=&encryption=none&host=d.nsa03.com&type=ws#https://t.me/Configir98
 
 
 socks://Og@62.220.126.92:30376#https://t.me/Configir98
@@ -38,7 +30,16 @@ vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=non
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#https://t.me/Configir98
 
 
-vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80?encryption=none&security=none&type=ws&host=cdnisfucka.drnimaamini.ir&path=%2Fwsکانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
+vless://ae7d645a-c03a-4d21-8047-2f77f315a6b7@snapp.ir:8880?path=%2Felctro&security=none&encryption=none&host=clud.extra-tm.ir&type=ws#https://t.me/Configir98
+
+
+socks://Og@130.185.75.82:9595#https://t.me/Configir98
+
+vless://054be705-6bbf-42cd-9970-acfc325a34ca@SNApp.ir:80?path=%2FHoseisecu&security=&encryption=none&host=MMW.abanservers.ir&type=ws#https://t.me/Configir98
+
+socks://Og%3D%3D@62.220.126.56:30170#https://t.me/Configir98
+
+socks://Og%3D%3D@79.175.177.96:1080#https://t.me/Configir98
 
 
 vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=wsکانفیگ ویتوری 9 ✅خوب بود ری اکشن بزنید ❤ ✨✨✨✨✨✨
@@ -59,9 +60,6 @@ vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=non
 
 
 vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?security=reality&encryption=none&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=0c80cc39#%F0%9F%AB%9F66%40oneclickvpnkeysکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
-
-
-vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80?encryption=none&security=none&type=ws&host=cdnisfucka.drnimaamini.ir&path=%2Fws
 
 
 vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=ws
@@ -85,9 +83,6 @@ vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=non
 vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?security=reality&encryption=none&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=0c80cc39#%F0%9F%AB%9F66%40oneclickvpnkeys
 
 
-vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80?encryption=none&security=none&type=ws&host=cdnisfucka.drnimaamini.ir&path=%2Fwsکانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
-
-
 vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=wsکانفیگ ویتوری 9 ✅خوب بود ری اکشن بزنید ❤ ✨✨✨✨✨✨
 
 
@@ -108,106 +103,58 @@ vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=non
 vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?security=reality&encryption=none&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=0c80cc39#%F0%9F%AB%9F66%40oneclickvpnkeysکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
 
 
-vless://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
-
-socks://Og@193.151.135.130:10809#%40TROWER_NEWS
-
-vless://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
-
-vless://26f485f2-f62b-4cb3-9f74-7dcdbf41e9df@nullnetwork.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+vless://2471be69-ba51-4dcd-90a0-0fc5ef0c1f05@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
-vless://0a1e15c3-5587-4252-96ac-eb4fd8ab7a86@snapp.ir:8880?path=%2Frazstarlocal&security=none&encryption=none&host=p1.razstar.ir&type=ws#%40TROWER_NEWS
+vless://29fc66f8-a565-49af-98da-456ea45585af@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#%40TROWER_NEWS
 
-vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin9.8lack.ir#%40TROWER_NEWS
-
-vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=none&encryption=none&host=p1.razstar.ir&type=ws#%40TROWER_NEWS
-
-vless://57847df6-3ef1-477f-986c-c8dfb55d4160@185.143.233.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws#%40TROWER_NEWS
-
-socks://Og@62.220.126.92:30376#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+vless://c40aca8b-c612-4221-9460-03978559ba91@cdn2.sensishop.com.tr:2082?path=%2F&security=none&encryption=none&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
-vless://8c7e6be8-dcca-4853-91f4-ae55153db2f3@home.webbine.xyz:22101?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
-
-vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#%40TROWER_NEWS
-
-vless://0a1e15c3-5587-4252-96ac-eb4fd8ab7a86@snapp.ir:8880?security=none&encryption=none&host=p1.razstar.ir&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+vless://891238ac-ee60-4382-b27d-12f91325f6e7@snapp.ir:80?type=ws&path=%2F&host=simorgh.darerio.ir&security=none#@TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
-vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#%40TROWER_NEWS
+vless://b278ade1-a73e-43a7-8484-e16972274dff@nullnetwork.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
 
-vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&security=none&encryption=none&host=sr.novatechsapr.ir&type=ws#%40TROWER_NEWS
+vless://246be34f-cad8-4bfb-8374-b728c397dc70@packetnet.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
 
-vless://0a1e15c3-5587-4252-96ac-eb4fd8ab7a86@snapp.ir:8880?path=%2Frazstarlocal&security=none&encryption=none&host=p1.razstar.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
-
-
-vless://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
-
-socks://Og@193.151.135.130:10809#%40TROWER_NEWS
-
-vless://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
-
-vless://26f485f2-f62b-4cb3-9f74-7dcdbf41e9df@nullnetwork.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
+vless://e4f677ea-5f77-4eb8-8846-e6cf4e768340@packetnet.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
-vless://0a1e15c3-5587-4252-96ac-eb4fd8ab7a86@snapp.ir:8880?path=%2Frazstarlocal&security=none&encryption=none&host=p1.razstar.ir&type=ws#%40TROWER_NEWS
-
-vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin9.8lack.ir#%40TROWER_NEWS
-
-vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=none&encryption=none&host=p1.razstar.ir&type=ws#%40TROWER_NEWS
-
-vless://57847df6-3ef1-477f-986c-c8dfb55d4160@185.143.233.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws#%40TROWER_NEWS
-
-socks://Og@62.220.126.92:30376#%40TROWER_NEWS
+vless://2471be69-ba51-4dcd-90a0-0fc5ef0c1f05@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#%40TROWER_NEWS
 
 
-vless://8c7e6be8-dcca-4853-91f4-ae55153db2f3@home.webbine.xyz:22101?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
+vless://29fc66f8-a565-49af-98da-456ea45585af@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#%40TROWER_NEWS
 
-vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#%40TROWER_NEWS
-
-vless://0a1e15c3-5587-4252-96ac-eb4fd8ab7a86@snapp.ir:8880?security=none&encryption=none&host=p1.razstar.ir&headerType=none&type=tcp#%40TROWER_NEWS
+vless://c40aca8b-c612-4221-9460-03978559ba91@cdn2.sensishop.com.tr:2082?path=%2F&security=none&encryption=none&type=ws#%40TROWER_NEWS
 
 
-vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#%40TROWER_NEWS
-
-vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&security=none&encryption=none&host=sr.novatechsapr.ir&type=ws#%40TROWER_NEWS
-
-vless://0a1e15c3-5587-4252-96ac-eb4fd8ab7a86@snapp.ir:8880?path=%2Frazstarlocal&security=none&encryption=none&host=p1.razstar.ir&type=ws#%40TROWER_NEWS
+vless://891238ac-ee60-4382-b27d-12f91325f6e7@snapp.ir:80?type=ws&path=%2F&host=simorgh.darerio.ir&security=none#@TROWER_NEWS
 
 
-vless://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
+vless://b278ade1-a73e-43a7-8484-e16972274dff@nullnetwork.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
 
-socks://Og@193.151.135.130:10809#%40TROWER_NEWS
+vless://246be34f-cad8-4bfb-8374-b728c397dc70@packetnet.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
 
-vless://545a30f0-667b-4c2a-982c-d71c7de61c26@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
-
-vless://26f485f2-f62b-4cb3-9f74-7dcdbf41e9df@nullnetwork.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+vless://e4f677ea-5f77-4eb8-8846-e6cf4e768340@packetnet.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
 
 
-vless://0a1e15c3-5587-4252-96ac-eb4fd8ab7a86@snapp.ir:8880?path=%2Frazstarlocal&security=none&encryption=none&host=p1.razstar.ir&type=ws#%40TROWER_NEWS
-
-vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin9.8lack.ir#%40TROWER_NEWS
-
-vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=none&encryption=none&host=p1.razstar.ir&type=ws#%40TROWER_NEWS
-
-vless://57847df6-3ef1-477f-986c-c8dfb55d4160@185.143.233.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws#%40TROWER_NEWS
-
-socks://Og@62.220.126.92:30376#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+vless://2471be69-ba51-4dcd-90a0-0fc5ef0c1f05@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
-vless://8c7e6be8-dcca-4853-91f4-ae55153db2f3@home.webbine.xyz:22101?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
+vless://29fc66f8-a565-49af-98da-456ea45585af@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#%40TROWER_NEWS
 
-vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#%40TROWER_NEWS
-
-vless://0a1e15c3-5587-4252-96ac-eb4fd8ab7a86@snapp.ir:8880?security=none&encryption=none&host=p1.razstar.ir&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+vless://c40aca8b-c612-4221-9460-03978559ba91@cdn2.sensishop.com.tr:2082?path=%2F&security=none&encryption=none&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
-vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#%40TROWER_NEWS
+vless://891238ac-ee60-4382-b27d-12f91325f6e7@snapp.ir:80?type=ws&path=%2F&host=simorgh.darerio.ir&security=none#@TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
-vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&security=none&encryption=none&host=sr.novatechsapr.ir&type=ws#%40TROWER_NEWS
 
-vless://0a1e15c3-5587-4252-96ac-eb4fd8ab7a86@snapp.ir:8880?path=%2Frazstarlocal&security=none&encryption=none&host=p1.razstar.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+vless://b278ade1-a73e-43a7-8484-e16972274dff@nullnetwork.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
+
+vless://246be34f-cad8-4bfb-8374-b728c397dc70@packetnet.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
+
+vless://e4f677ea-5f77-4eb8-8846-e6cf4e768340@packetnet.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
 vless://9e2e1292-038c-4317-bdfa-71aaa006b8a7@snapp.ir:80?path=%2F&security=none&encryption=none&host=sb.borna-otbas.ir&type=ws#%40MiTi_4vpn
