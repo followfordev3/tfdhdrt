@@ -1,14 +1,5 @@
 
 
-vless://174366a1-df28-476f-96d6-ac934d667339@apn.faz11.ir:80?path=%2F&security=none&encryption=none&type=ws#vipV2rayNGnp
-
-
-vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=%2Fapi&security=none&encryption=none&host=ryzo.px-ir.ir&type=ws#
-
-
-socks://Og@62.220.126.56:30170#@VIPV2rayNGNP
-
-
 socks://Og@130.185.75.82:9595#vipV2rayNGnp
 
 
@@ -20,19 +11,38 @@ socks://Og@62.220.126.56:30170#vipV2rayNGnp
 socks://Og@62.220.126.92:30376#vipV2rayNGnp
 
 
+socks://Og@130.185.75.82:9595#@vipV2rayNGnp
+
+socks://Og@130.185.75.82:9595#@vipV2rayNGnp
+
+socks://Og@62.220.126.56:30170#@vipV2rayNGnp
+
+
+socks://Og@130.185.75.82:9595#@vipV2rayNGnp
+
+socks://Og%3D%3D@130.185.75.82:9595#@vipV2rayNGnp
+
+socks://Og%3D%3D@62.220.126.92:25874#@vipV2rayNGnp
+
+
 vless://7ef9fbc7-0fd8-475b-8a84-1c87e7d37dd1@94.182.157.70:8080?path=%2F&security=none&encryption=none&host=s11.mn-g.ir&type=ws#https://t.me/ultrasurf_12
 
 
 vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=%2Fapi&security=none&encryption=none&host=ryzo.px-ir.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9A%8F%20%40ultrasurf_12
 
 
+socks://Og@130.185.75.82:9595#https://t.me/Configir98
+
+socks://Og@130.185.75.82:9595#https://t.me/Configir98
+
 socks://Og@62.220.126.56:30170#https://t.me/Configir98
 
 
 socks://Og@130.185.75.82:9595#https://t.me/Configir98
 
+socks://Og%3D%3D@130.185.75.82:9595#https://t.me/Configir98
 
-vless://3c9b41c8-4c9d-43f0-8924-63d9d80da614@snapp.ir:2095?path=%2FABcD&security=none&encryption=none&host=clud.extra-tm.ir&type=ws#https://t.me/Configir98
+socks://Og%3D%3D@62.220.126.92:25874#https://t.me/Configir98
 
 
 vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=wsکانفیگ ویتوری 9 ✅خوب بود ری اکشن بزنید ❤ ✨✨✨✨✨✨
@@ -96,11 +106,6 @@ vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=non
 vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?security=reality&encryption=none&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=0c80cc39#%F0%9F%AB%9F66%40oneclickvpnkeysکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
 
 
-vless://27591df4-2a8e-4b4d-bb61-ad663332458a@Tapsi.ir:8080?path=%2Fcdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%40TROWER_NEWS
-
-vless://9d0b7f4e-b0fe-42bf-a550-31b7ecb0e053@2.144.4.245:23176?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
-
-
 vless://ae7d645a-c03a-4d21-8047-2f77f315a6b7@snapp.ir:8880?path=%2Felctro&security=none&encryption=none&host=clud.extra-tm.ir&type=ws#%40TROWER_NEWS
 
 vless://9d0b7f4e-b0fe-42bf-a550-31b7ecb0e053@2.144.4.245:23176?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
@@ -116,11 +121,6 @@ vless://c49182d0-af53-4b57-84a5-0c027adcfcfd@snapp.ir:80?path=%2F&security=none&
 socks://Og@62.220.126.56:24353#%40TROWER_NEWS
 
 vless://7b048a03-a987-4957-9171-4475094dc7d6@ger1bot-ws.headerip.com:80?path=%2F&security=none&encryption=none&host=ger1.mv5.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
-
-
-vless://27591df4-2a8e-4b4d-bb61-ad663332458a@Tapsi.ir:8080?path=%2Fcdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%40TROWER_NEWS
-
-vless://9d0b7f4e-b0fe-42bf-a550-31b7ecb0e053@2.144.4.245:23176?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS
 
 
 vless://ae7d645a-c03a-4d21-8047-2f77f315a6b7@snapp.ir:8880?path=%2Felctro&security=none&encryption=none&host=clud.extra-tm.ir&type=ws#%40TROWER_NEWS
@@ -140,11 +140,6 @@ socks://Og@62.220.126.56:24353#%40TROWER_NEWS
 vless://7b048a03-a987-4957-9171-4475094dc7d6@ger1bot-ws.headerip.com:80?path=%2F&security=none&encryption=none&host=ger1.mv5.ir&type=ws#%40TROWER_NEWS
 
 
-vless://27591df4-2a8e-4b4d-bb61-ad663332458a@Tapsi.ir:8080?path=%2Fcdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%40TROWER_NEWS
-
-vless://9d0b7f4e-b0fe-42bf-a550-31b7ecb0e053@2.144.4.245:23176?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
-
-
 vless://ae7d645a-c03a-4d21-8047-2f77f315a6b7@snapp.ir:8880?path=%2Felctro&security=none&encryption=none&host=clud.extra-tm.ir&type=ws#%40TROWER_NEWS
 
 vless://9d0b7f4e-b0fe-42bf-a550-31b7ecb0e053@2.144.4.245:23176?security=none&encryption=none&headerType=none&type=tcp#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
@@ -160,9 +155,6 @@ vless://c49182d0-af53-4b57-84a5-0c027adcfcfd@snapp.ir:80?path=%2F&security=none&
 socks://Og@62.220.126.56:24353#%40TROWER_NEWS
 
 vless://7b048a03-a987-4957-9171-4475094dc7d6@ger1bot-ws.headerip.com:80?path=%2F&security=none&encryption=none&host=ger1.mv5.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
-
-
-vless://a456297c-083b-4b3d-9da6-6380300386d5@snapp.ir:80?path=%2F&security=none&encryption=none&host=br.dbrun-gorsap.ir&type=ws#%40MiTi_4vpn%20%F0%9F%94%A5
 
 
 vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&security=none&encryption=none&host=sr.novatechsapr.ir&type=ws#%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8
