@@ -1,12 +1,5 @@
 
 
-socks://Og@130.185.75.82:9595#@vipV2rayNGnp
-
-socks://Og%3D%3D@130.185.75.82:9595#@vipV2rayNGnp
-
-socks://Og%3D%3D@62.220.126.92:25874#@vipV2rayNGnp
-
-
 socks://Og@62.220.126.56:30170#vipV2rayNGnp
 
 
@@ -24,6 +17,14 @@ vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=no
 vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@104.18.13.229:2052?security=none&encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&type=ws#@vipV2rayNGnp
 
 vless://0146ee19-29eb-400b-b50b-b032bddafd65@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#@vipV2rayNGnp
+
+
+vless://44e68526-3852-4495-bc4f-80e80260ed3b@snapp.ir:2086?path=%2F&security=&encryption=none&host=beraghsaontop.dracodcodya.ir&type=ws#vipV2rayNGnp
+
+
+socks://Og@62.220.126.56:30170#vipV2rayNGnp
+
+socks://Og@62.220.126.92:30376#vipV2rayNGnp
 
 
 vless://7ef9fbc7-0fd8-475b-8a84-1c87e7d37dd1@94.182.157.70:8080?path=%2F&security=none&encryption=none&host=s11.mn-g.ir&type=ws#https://t.me/ultrasurf_12
@@ -192,20 +193,6 @@ vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=no
 vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?security=reality&encryption=none&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&headerType=&fp=random&spx=%2F&type=tcp&sni=www.google.com&sid=93#%40v2rayconfigamir%204975کانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
 
 
-vless://4ca3310b-de1b-4740-8d64-7d17f3d61b95@185.143.233.5:2095?path=%2F&security=none&encryption=none&host=p1.sesrsa.com&type=ws#%40TROWER_NEWS
-
-vless://43e694df-9e1f-4955-a616-96089caa703e@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#%40TROWER_NEWS
-
-socks://Og@62.220.126.56:30170#%40TROWER_NEWS
-
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
-
-
-vless://0146ee19-29eb-400b-b50b-b032bddafd65@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
-
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
-
-
 vless://5c56c440-8d44-479b-a763-658068aa0d66@node1.aerova.space:2439?path=%2F&security=none&encryption=none&type=ws#%40TROWER_NEWS
 
 vless://0146ee19-29eb-400b-b50b-b032bddafd65@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
@@ -221,18 +208,13 @@ vless://44e68526-3852-4495-bc4f-80e80260ed3b@snapp.ir:2086?path=%2F&security=non
 vless://3cd528bf-707b-4b13-bd6a-d774ca8177b5@185.143.233.122:80?path=%2F&security=none&encryption=none&host=ira.helexu.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
-vless://4ca3310b-de1b-4740-8d64-7d17f3d61b95@185.143.233.5:2095?path=%2F&security=none&encryption=none&host=p1.sesrsa.com&type=ws#%40TROWER_NEWS
+vless://807b1b9f-edcb-41c8-ba06-d7c3db2b897b@snapp.ir:80?path=%2F&security=none&encryption=none&host=pan51e.nexoratechcenter.ir&type=ws#%40TROWER_NEWS
 
-vless://43e694df-9e1f-4955-a616-96089caa703e@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#%40TROWER_NEWS
+vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=%2Fpath&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#%40TROWER_NEWSss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191#%40TROWER_NEWS
 
-socks://Og@62.220.126.56:30170#%40TROWER_NEWS
+vless://46515224-9321-4329-96ab-c076ccd5ca02@dverso.nahidapp.com:443?path=%2Fvl%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dverso.nahidapp.com&type=ws&allowInsecure=0&sni=dverso.nahidapp.com#%40TROWER_NEWS
 
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
-
-
-vless://0146ee19-29eb-400b-b50b-b032bddafd65@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
-
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
+vless://059a8176-5b56-4917-afe0-b0034e65d244@185.143.234.122:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=js.oppobot.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
 vless://5c56c440-8d44-479b-a763-658068aa0d66@node1.aerova.space:2439?path=%2F&security=none&encryption=none&type=ws#%40TROWER_NEWS
@@ -250,18 +232,13 @@ vless://44e68526-3852-4495-bc4f-80e80260ed3b@snapp.ir:2086?path=%2F&security=non
 vless://3cd528bf-707b-4b13-bd6a-d774ca8177b5@185.143.233.122:80?path=%2F&security=none&encryption=none&host=ira.helexu.ir&type=ws#%40TROWER_NEWS
 
 
-vless://4ca3310b-de1b-4740-8d64-7d17f3d61b95@185.143.233.5:2095?path=%2F&security=none&encryption=none&host=p1.sesrsa.com&type=ws#%40TROWER_NEWS
+vless://807b1b9f-edcb-41c8-ba06-d7c3db2b897b@snapp.ir:80?path=%2F&security=none&encryption=none&host=pan51e.nexoratechcenter.ir&type=ws#%40TROWER_NEWS
 
-vless://43e694df-9e1f-4955-a616-96089caa703e@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#%40TROWER_NEWS
+vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=%2Fpath&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#%40TROWER_NEWSss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191#%40TROWER_NEWS
 
-socks://Og@62.220.126.56:30170#%40TROWER_NEWS
+vless://46515224-9321-4329-96ab-c076ccd5ca02@dverso.nahidapp.com:443?path=%2Fvl%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dverso.nahidapp.com&type=ws&allowInsecure=0&sni=dverso.nahidapp.com#%40TROWER_NEWS
 
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
-
-
-vless://0146ee19-29eb-400b-b50b-b032bddafd65@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS
-
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+vless://059a8176-5b56-4917-afe0-b0034e65d244@185.143.234.122:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=js.oppobot.ir&type=ws#%40TROWER_NEWS
 
 
 vless://5c56c440-8d44-479b-a763-658068aa0d66@node1.aerova.space:2439?path=%2F&security=none&encryption=none&type=ws#%40TROWER_NEWS
@@ -279,7 +256,37 @@ vless://44e68526-3852-4495-bc4f-80e80260ed3b@snapp.ir:2086?path=%2F&security=non
 vless://3cd528bf-707b-4b13-bd6a-d774ca8177b5@185.143.233.122:80?path=%2F&security=none&encryption=none&host=ira.helexu.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
-vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&security=none&encryption=none&host=sr.novatechsapr.ir&type=ws#%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8
+vless://807b1b9f-edcb-41c8-ba06-d7c3db2b897b@snapp.ir:80?path=%2F&security=none&encryption=none&host=pan51e.nexoratechcenter.ir&type=ws#%40TROWER_NEWS
+
+vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=%2Fpath&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#%40TROWER_NEWSss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191#%40TROWER_NEWS
+
+vless://46515224-9321-4329-96ab-c076ccd5ca02@dverso.nahidapp.com:443?path=%2Fvl%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dverso.nahidapp.com&type=ws&allowInsecure=0&sni=dverso.nahidapp.com#%40TROWER_NEWS
+
+vless://059a8176-5b56-4917-afe0-b0034e65d244@185.143.234.122:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=js.oppobot.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJzMDBqODQ2OCIsCiAgImFkZCI6ICIzNy4zMi4xMS4xMDUiLAogICJwb3J0IjogMywKICAiaWQiOiAiNGQzZjk2MzktZDhmOC00MWFiLWJhOWMtODhiMWYzNzI2NzkwIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICI5aWRrZ2Q1YSIsCiAgImFkZCI6ICIzNy4zMi4xMS4xMDUiLAogICJwb3J0IjogMywKICAiaWQiOiAiNDRjYTU5OWMtNTRmMi00ZTRiLWE0MTMtZmQwM2JjNTRjNmIxIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJvZDE5bDNtaCIsCiAgImFkZCI6ICIzNy4zMi4xMS4xMDUiLAogICJwb3J0IjogMiwKICAiaWQiOiAiZTUzNGIyZGEtNDMxZC00OWY3LWE2MGEtZjEwMDM5YjI2NTVlIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJiYjBxZm10bCIsCiAgImFkZCI6ICIzNy4zMi4xMS4xMDUiLAogICJwb3J0IjogMywKICAiaWQiOiAiMzczNTJlNDQtMDE3My00M2QyLThjMmItZGZhNDdiZTZjMTNkIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
+
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ6NWZ0NXA4aCIsCiAgImFkZCI6ICIzNy4zMi4xMS4xMDUiLAogICJwb3J0IjogMywKICAiaWQiOiAiNWM5MmM3OGUtNGExMi00ZDQ3LTk0ZWEtMDA4Y2JhMjk5NmRiIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
 
 
 socks://Og@62.220.126.92:30376#%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8
+
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJzMDBqODQ2OCIsCiAgImFkZCI6ICIzNy4zMi4xMS4xMDUiLAogICJwb3J0IjogMywKICAiaWQiOiAiNGQzZjk2MzktZDhmOC00MWFiLWJhOWMtODhiMWYzNzI2NzkwIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICI5aWRrZ2Q1YSIsCiAgImFkZCI6ICIzNy4zMi4xMS4xMDUiLAogICJwb3J0IjogMywKICAiaWQiOiAiNDRjYTU5OWMtNTRmMi00ZTRiLWE0MTMtZmQwM2JjNTRjNmIxIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJvZDE5bDNtaCIsCiAgImFkZCI6ICIzNy4zMi4xMS4xMDUiLAogICJwb3J0IjogMiwKICAiaWQiOiAiZTUzNGIyZGEtNDMxZC00OWY3LWE2MGEtZjEwMDM5YjI2NTVlIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJiYjBxZm10bCIsCiAgImFkZCI6ICIzNy4zMi4xMS4xMDUiLAogICJwb3J0IjogMywKICAiaWQiOiAiMzczNTJlNDQtMDE3My00M2QyLThjMmItZGZhNDdiZTZjMTNkIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
+
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ6NWZ0NXA4aCIsCiAgImFkZCI6ICIzNy4zMi4xMS4xMDUiLAogICJwb3J0IjogMywKICAiaWQiOiAiNWM5MmM3OGUtNGExMi00ZDQ3LTk0ZWEtMDA4Y2JhMjk5NmRiIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
