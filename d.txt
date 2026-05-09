@@ -1,13 +1,5 @@
 
 
-vless://44e68526-3852-4495-bc4f-80e80260ed3b@snapp.ir:2086?path=%2F&security=&encryption=none&host=beraghsaontop.dracodcodya.ir&type=ws#vipV2rayNGnp
-
-
-socks://Og@62.220.126.56:30170#vipV2rayNGnp
-
-socks://Og@62.220.126.92:30376#vipV2rayNGnp
-
-
 vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&encryption=none&host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#vipV2rayNGnp
 
 
@@ -23,6 +15,12 @@ socks://Og@62.220.126.92:30871#
 socks://Og@130.185.75.82:9595#vipV2rayNGnp
 
 
+vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=%2F&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#vipV2rayNGnp
+
+
+socks://Og@130.185.75.82:9595#
+
+
 vless://7ef9fbc7-0fd8-475b-8a84-1c87e7d37dd1@94.182.157.70:8080?path=%2F&security=none&encryption=none&host=s11.mn-g.ir&type=ws#https://t.me/ultrasurf_12
 
 
@@ -30,15 +28,6 @@ vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=%2Fapi&security=
 
 
 socks://Og%3D%3D@188.121.126.152:2080#%F0%9F%90%A8%40ultrasurf_12
-
-
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=%2FIF_VPN_Bot&security=tls&type=ws#https://t.me/Configir98
-
-
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=%2FIF_VPN_Bot&security=tls&type=ws#https://t.me/Configir98
-
-
-vless://0146ee19-29eb-400b-b50b-b032bddafd65@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#https://t.me/Configir98
 
 
 vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@104.18.13.229:2052?security=none&encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&type=ws#https://t.me/Configir98
@@ -58,6 +47,9 @@ vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&
 
 
 socks://Og@130.185.75.82:9595#https://t.me/Configir98
+
+
+vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=%2F&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#https://t.me/Configir98
 
 
 vless://9692c29e-f714-44a5-abef-430d1169635a@45.90.75.168:2015?security=none&encryption=none&headerType=none&type=tcp
@@ -179,36 +171,6 @@ vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=no
 
 
 vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?security=reality&encryption=none&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&headerType=&fp=random&spx=%2F&type=tcp&sni=www.google.com&sid=93#%40v2rayconfigamir%204975کانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
-
-
-vless://9e07e0be-cc62-40e6-974f-ef53bf065f4d@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#%40TROWER_NEWS
-
-vless://c9841f8b-9388-4142-9549-688c98d77d13@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
-
-
-vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&encryption=none&host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#%40TROWER_NEWS
-
-vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=%2Fpath&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
-
-
-vless://9e07e0be-cc62-40e6-974f-ef53bf065f4d@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#%40TROWER_NEWS
-
-vless://c9841f8b-9388-4142-9549-688c98d77d13@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%40TROWER_NEWS
-
-
-vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&encryption=none&host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#%40TROWER_NEWS
-
-vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=%2Fpath&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#%40TROWER_NEWS
-
-
-vless://9e07e0be-cc62-40e6-974f-ef53bf065f4d@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#%40TROWER_NEWS
-
-vless://c9841f8b-9388-4142-9549-688c98d77d13@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
-
-
-vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&encryption=none&host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#%40TROWER_NEWS
-
-vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=%2Fpath&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
 socks://Og@62.220.126.92:30376#%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8
