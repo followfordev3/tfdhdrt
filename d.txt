@@ -1,27 +1,6 @@
 
 
-socks://Og@62.220.126.92:30376#vipV2rayNGnp
-
-
-vless://d3c7de84-54d6-4460-8acc-ffc63b023e5f@adler-1g.adelshoop.net:80?path=%2F&security=&encryption=none&type=ws#@VIPV2rayNGNP
-
-vless://3548d598-8a35-40f1-9458-f3de15935061@app.palmal.site:36517?security=none&encryption=none&headerType=none&type=tcp#@VIPV2rayNGNP
-
-vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&security=none&encryption=none&type=ws#@vipV2rayNGnp
-
-vless://172325e2-326d-422d-9e30-6035efeac4c9@Cia.parsincharm.ir:2052?type=ws&encryption=none&path=&host=besy.storyhost.ir&security=none#@VIPV2rayNGNP
-
-socks://Og@62.220.126.92:30871#@VIPV2rayNGNP
-
-vless://7208f7a9-95d9-40c4-ab55-211681c14332@SnaPp.ir:2082?security=none&type=ws&headerType=&path=%2F&host=Mamad.mobilesubasa.com#@VIPV2rayNGNP
-
-vless://a2b89010-b65a-492c-a0a6-5cec15ae5a24@eco.gymplusplus.com:2052?path=%2F&security=&encryption=none&type=ws#@VIPV2rayNGNP
-
-
-vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/#vipV2rayNGnp
-
-
-vless://a864c0ea-a2ab-4328-b1f8-e094f6b1be29@37.202.246.113:443?security=&encryption=none&headerType=none&type=tcp#@vipV2rayNGnp
+socks://Og@45.149.76.86:81#vipV2rayNGnp
 
 
 vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=%2Fapi&security=none&encryption=none&host=ryzo.px-ir.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9A%8F%20%40ultrasurf_12
@@ -39,33 +18,19 @@ vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&s
 vless://4e3f6a5b-acd3-4566-8349-bc71602b99c1@vpnxvpn.nazincup.ir:8080?path=%2Fapi&security=none&encryption=none&host=vpnxvpn.nazincup.ir&type=ws#%40ultrasurf_12%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%2020
 
 
-socks://Og@62.220.126.92:30376#@Configir98
+socks://Og@62.220.126.56:30170#https://t.me/Configir98
 
-
-vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/#https://t.me/Configir98
-
+socks://Og@62.220.126.92:30871#https://t.me/Configir98
 
 vless://a864c0ea-a2ab-4328-b1f8-e094f6b1be29@37.202.246.113:443?security=&encryption=none&headerType=none&type=tcp#https://t.me/Configir98
 
-
-socks://Og@130.185.75.82:9595
-
-socks://Og%3D%3D@130.185.75.82:9595
-
-socks://Og%3D%3D@62.220.126.92:25874کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+vless://85ea4ab7-ed99-431c-a9a4-ba206df5d41d@185.143.234.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.iranaircdn.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.iranaircdn.com#https://t.me/Configir98
 
 
-socks://Og@130.185.75.82:9595
-
-socks://Og@130.185.75.82:9595
-
-socks://Og@62.220.126.56:30170کانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
+vless://2817fb9e-8767-4c7c-b459-4ca00e564f3a@tun1.aria-network.cloud:443?path=%2F&security=tls&encryption=none&type=ws&sni=svde1.aria-network.cloud#https://t.me/Configir98
 
 
-vless://3c9b41c8-4c9d-43f0-8924-63d9d80da614@snapp.ir:2095?path=%2FABcD&security=none&encryption=none&host=clud.extra-tm.ir&type=wsکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
-
-
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=%2FIF_VPN_Bot&security=tls&type=wsکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
+socks://Og@45.149.76.86:81#https://t.me/Configir98
 
 
 vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?security=reality&encryption=none&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&headerType=&fp=random&spx=%2F&type=tcp&sni=www.google.com&sid=93#%40v2rayconfigamir%204975کانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
@@ -96,24 +61,16 @@ vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?security=reality&
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?path=%2F&security=tls&encryption=none&insecure=0&host=3-7v4.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=3-7v4.pages.dev#v2ray_dalghakکانفیگ ویتوری 6 ✅ خوب بود ری اکشن بزنید ❤ ✨✨✨✨✨
 
 
-socks://Og@130.185.75.82:9595
-
-socks://Og%3D%3D@130.185.75.82:9595
-
-socks://Og%3D%3D@62.220.126.92:25874
+vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
-socks://Og@130.185.75.82:9595
-
-socks://Og@130.185.75.82:9595
-
-socks://Og@62.220.126.56:30170
+vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/کانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
-vless://3c9b41c8-4c9d-43f0-8924-63d9d80da614@snapp.ir:2095?path=%2FABcD&security=none&encryption=none&host=clud.extra-tm.ir&type=ws
+vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@5.255.107.115:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nll.scroogethebest.com&sid=4fa44664f6a566d3#%F0%9F%AB%9F76%40oneclickvpnkeysکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
 
 
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=%2FIF_VPN_Bot&security=tls&type=ws
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.4:443?security=reality&encryption=none&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=23#v2ray_dalghakکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤ ✨✨✨✨✨
 
 
 vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?security=reality&encryption=none&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&headerType=&fp=random&spx=%2F&type=tcp&sni=www.google.com&sid=93#%40v2rayconfigamir%204975
@@ -144,24 +101,16 @@ vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?security=reality&
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?path=%2F&security=tls&encryption=none&insecure=0&host=3-7v4.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=3-7v4.pages.dev#v2ray_dalghak
 
 
-socks://Og@130.185.75.82:9595
-
-socks://Og%3D%3D@130.185.75.82:9595
-
-socks://Og%3D%3D@62.220.126.92:25874کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/
 
 
-socks://Og@130.185.75.82:9595
-
-socks://Og@130.185.75.82:9595
-
-socks://Og@62.220.126.56:30170کانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
+vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/
 
 
-vless://3c9b41c8-4c9d-43f0-8924-63d9d80da614@snapp.ir:2095?path=%2FABcD&security=none&encryption=none&host=clud.extra-tm.ir&type=wsکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@5.255.107.115:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nll.scroogethebest.com&sid=4fa44664f6a566d3#%F0%9F%AB%9F76%40oneclickvpnkeys
 
 
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=%2FIF_VPN_Bot&security=tls&type=wsکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.4:443?security=reality&encryption=none&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=23#v2ray_dalghak
 
 
 vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?security=reality&encryption=none&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&headerType=&fp=random&spx=%2F&type=tcp&sni=www.google.com&sid=93#%40v2rayconfigamir%204975کانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
@@ -192,11 +141,19 @@ vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?security=reality&
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?path=%2F&security=tls&encryption=none&insecure=0&host=3-7v4.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=3-7v4.pages.dev#v2ray_dalghakکانفیگ ویتوری 6 ✅ خوب بود ری اکشن بزنید ❤ ✨✨✨✨✨
 
 
-socks://Og@62.220.126.56:30170#%40TROWER_NEWS
+vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
-socks://Og@62.220.126.92:30871#%40TROWER_NEWS
 
-vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&encryption=none&host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/کانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+
+
+vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@5.255.107.115:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nll.scroogethebest.com&sid=4fa44664f6a566d3#%F0%9F%AB%9F76%40oneclickvpnkeysکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
+
+
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.4:443?security=reality&encryption=none&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=23#v2ray_dalghakکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤ ✨✨✨✨✨
+
+
+socks://Og%3D%3D@45.149.76.86:81#%40
 
 
 vless://10661cad-f362-42dd-8244-a3df410cd5b1@thany.tech:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cloudinohost.com&fp=chrome&type=ws&allowInsecure=0&sni=cloudinohost.com#%40TROWER_NEWS
@@ -210,11 +167,17 @@ vless://e06a0295-10c3-4ef2-9e08-b0314260a636@api.net-box.ir:443?mode=auto&path=%
 vless://40eebc4b-56a6-4468-9d29-86be78b9c1d5@api.net-box.ir:443?mode=auto&path=%2Fvideo%2Froom3&security=tls&encryption=none&insecure=0&host=p-t9.darkube.ir&type=xhttp&allowInsecure=0&sni=api.net-box.ir#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
-socks://Og@62.220.126.56:30170#%40TROWER_NEWS
+vless://c8adc512-f614-46cb-801f-f609af9f3405@us.gozarfreebot.niniweblog.org:23?security=reality&encryption=none&pbk=k5ghCQjfzH-vo8dNajQbal17E9hzzn4PrcrZESd23y4&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=refersion.com&sid=372a94d2f8009a94#%40TROWER_NEWSss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#%40TROWER_NEWS
 
-socks://Og@62.220.126.92:30871#%40TROWER_NEWS
+vless://bf874bd1-e81f-4234-aacb-94dc1cfe0431@ab.sordo.store:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ab.sordo.store&fp=chrome&type=ws&allowInsecure=0&sni=ab.sordo.store#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
-vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&encryption=none&host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#%40TROWER_NEWS
+
+vless://2817fb9e-8767-4c7c-b459-4ca00e564f3a@tun1.aria-network.cloud:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=svde1.aria-network.cloud#%40TROWER_NEWS
+
+vless://2e075d78-9352-4339-b4dd-af86d5117f43@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS﻿
+
+
+vless://d37b09ba-1a9e-4e53-a70a-b901cc9b5e4f@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=en1.zivaroq.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS﻿
 
 
 vless://10661cad-f362-42dd-8244-a3df410cd5b1@thany.tech:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cloudinohost.com&fp=chrome&type=ws&allowInsecure=0&sni=cloudinohost.com#%40TROWER_NEWS
@@ -228,11 +191,17 @@ vless://e06a0295-10c3-4ef2-9e08-b0314260a636@api.net-box.ir:443?mode=auto&path=%
 vless://40eebc4b-56a6-4468-9d29-86be78b9c1d5@api.net-box.ir:443?mode=auto&path=%2Fvideo%2Froom3&security=tls&encryption=none&insecure=0&host=p-t9.darkube.ir&type=xhttp&allowInsecure=0&sni=api.net-box.ir#%40TROWER_NEWS
 
 
-socks://Og@62.220.126.56:30170#%40TROWER_NEWS
+vless://c8adc512-f614-46cb-801f-f609af9f3405@us.gozarfreebot.niniweblog.org:23?security=reality&encryption=none&pbk=k5ghCQjfzH-vo8dNajQbal17E9hzzn4PrcrZESd23y4&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=refersion.com&sid=372a94d2f8009a94#%40TROWER_NEWSss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#%40TROWER_NEWS
 
-socks://Og@62.220.126.92:30871#%40TROWER_NEWS
+vless://bf874bd1-e81f-4234-aacb-94dc1cfe0431@ab.sordo.store:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ab.sordo.store&fp=chrome&type=ws&allowInsecure=0&sni=ab.sordo.store#%40TROWER_NEWS
 
-vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&encryption=none&host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+
+vless://2817fb9e-8767-4c7c-b459-4ca00e564f3a@tun1.aria-network.cloud:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=svde1.aria-network.cloud#%40TROWER_NEWS
+
+vless://2e075d78-9352-4339-b4dd-af86d5117f43@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#%40TROWER_NEWS
+
+
+vless://d37b09ba-1a9e-4e53-a70a-b901cc9b5e4f@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=en1.zivaroq.ir&type=ws#%40TROWER_NEWS
 
 
 vless://10661cad-f362-42dd-8244-a3df410cd5b1@thany.tech:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cloudinohost.com&fp=chrome&type=ws&allowInsecure=0&sni=cloudinohost.com#%40TROWER_NEWS
@@ -246,16 +215,23 @@ vless://e06a0295-10c3-4ef2-9e08-b0314260a636@api.net-box.ir:443?mode=auto&path=%
 vless://40eebc4b-56a6-4468-9d29-86be78b9c1d5@api.net-box.ir:443?mode=auto&path=%2Fvideo%2Froom3&security=tls&encryption=none&insecure=0&host=p-t9.darkube.ir&type=xhttp&allowInsecure=0&sni=api.net-box.ir#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
 
 
+vless://c8adc512-f614-46cb-801f-f609af9f3405@us.gozarfreebot.niniweblog.org:23?security=reality&encryption=none&pbk=k5ghCQjfzH-vo8dNajQbal17E9hzzn4PrcrZESd23y4&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=refersion.com&sid=372a94d2f8009a94#%40TROWER_NEWSss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#%40TROWER_NEWS
+
+vless://bf874bd1-e81f-4234-aacb-94dc1cfe0431@ab.sordo.store:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ab.sordo.store&fp=chrome&type=ws&allowInsecure=0&sni=ab.sordo.store#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS
+
+
+vless://2817fb9e-8767-4c7c-b459-4ca00e564f3a@tun1.aria-network.cloud:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=svde1.aria-network.cloud#%40TROWER_NEWS
+
+vless://2e075d78-9352-4339-b4dd-af86d5117f43@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS﻿
+
+
+vless://d37b09ba-1a9e-4e53-a70a-b901cc9b5e4f@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=en1.zivaroq.ir&type=ws#%40TROWER_NEWS𝗩𝟮 + 𝗣𝘀𝗶𝗽𝗵𝗼𝗻@TROWER_NEWS﻿
+
+
 socks://Og@62.220.126.92:30376#%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8
 
 
-vless://d3c7de84-54d6-4460-8acc-ffc63b023e5f@adler-1g.adelshoop.net:80?encryption=none&type=ws&path=%2F#%40amir_webstudio
-
-
 socks://Og@62.220.126.92:30376#%40Shomarrreh%C2%B9
-
-
-socks://Og@62.220.126.92:30871#%40Shomarrreh
 
 
 socks://Og@130.185.75.82:9595#%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%DB%8C%DA%A9%20%7C%20Shomarrreh%40
