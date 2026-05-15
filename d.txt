@@ -1,8 +1,5 @@
 
 
-vless://6e22a266-25c0-4c8d-ac43-f24891262b07@ultranecctestusa.fqservershop.com:51395?security=none&encryption=none&headerType=none&type=tcp#%40@ultrasurf_12
-
-
 vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80?path=%2F&security=none&encryption=none&host=pa1.ghostantaniehh.ir&type=ws#%40ultrasurf_12
 
 
@@ -10,6 +7,9 @@ vmess://eyJhZGQiOiJ3d3cuYXJ2YW5jbG91ZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 
 
 socks://Og@proxyanonymous1.pahlavi.dpdns.org:1080#ultrasurf_12
+
+
+vless://be62d1c3-9847-4ede-b17c-4b568e8fbe40@snappfood.ir:8080?encryption=none&type=ws&path=%2Fws&host=cdnisfucka.drnimaamini.ir#https://t.me/Configir98
 
 
 vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
@@ -130,9 +130,6 @@ vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:443?path=%2F&security=t
 
 
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=0&sni=qyi.fqjd663.ggff.net#
-
-
-socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#%E2%9C%85%EF%B8%8F%D8%A8%DB%8C%D8%A7%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Shomarrreh%40
 
 
 socks://bnVsbDpudWxs@62.220.126.56:26132#%40Shomarrreh
