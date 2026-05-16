@@ -1,22 +1,5 @@
 
 
-vless://1b50eb2c-ee25-479e-b593-ec80db9a54a0@red.docos.tech:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.docos.tech&sni=red.docos.tech&fp=chrome#
-
-
-vless://a469bf88-8f4c-4b39-81c8-736acb3e1a39@snapp.ir:80?path=%2F&security=none&encryption=none&host=biawban.yeksancloud.ir&type=ws#@https://t.me/Configir98ss://738c7c92-9bb6-4294-8250-b224fb95fc78@2.144.21.44:443?encryption=none&type=ws&security=tls&path=%2Fcity%2Fsetting%3Fed%3D2560&host=roncomi.pages.dev&sni=roncomi.pages.dev&alpn=h2&fp=chrome&allowInsecure=0#https://t.me/Configir98
-
-vless://879c96f2-fae7-4555-84f2-b47612c9021d@milad1.cloudzeusggwp.com.tr:36266?encryption=none&type=tcp&security=reality&sni=www.aparat.com&fp=chrome&allowInsecure=1&pbk=1VJvRSqXw-Gcwf7TGQfq-AoT8pa2qN-2IMLVHiZvHiw&sid=d9919852&spx=%2F#https://t.me/Configir98
-
-vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2%2Chttp%2F1.1#https://t.me/Configir98
-
-vless://69ab00e0-9230-424b-b1be-eaf9ec776ce8@trex.docos.tech:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=trex.docos.tech&path=/vless-ws&sni=trex.docos.tech&fp=chrome#https://t.me/Configir98
-
-vless://3ac2a2a4-fd75-440a-96c5-1c40a50d6128@trex.docos.tech:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=trex.docos.tech&path=/vless-ws&sni=trex.docos.tech&fp=chrome#https://t.me/Configir98
-
-
-vless://1b50eb2c-ee25-479e-b593-ec80db9a54a0@red.docos.tech:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.docos.tech&sni=red.docos.tech&fp=chrome#
-
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
@@ -114,3 +97,14 @@ vless://e336f7cc-fe2b-46ca-b844-3537e80b1c67@snapp.ir:8080?path=%2FEmbestpro1&se
 
 
 vless://e336f7cc-fe2b-46ca-b844-3537e80b1c67@snapp.ir:8080?path=%2FEmbestpro1&security=none&encryption=none&host=Cyrus.zomavo.ir&type=ws#%40TROWER_NEWS%40Free_TROWER📱🏳️@TROWER_NEWS📱
+
+
+vless://801b0e63-4134-446e-aba7-d17d26f746e7@tapsi.ir:8880?path=%2Fdownload&security=none&encryption=none&host=dl.filmplus.top&type=ws#%40Shomarrreh%20%7C%201%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+
+vless://017998c6-da9e-4edf-a5d1-0d7dc68f5097@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%40Shomarrreh%20%7C2%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+
+vless://93ea5e7b-9427-416a-b2c6-f650d0c23193@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%40Shomarrreh%20%7C%203%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+
+vless://1f672b81-dfa3-468a-ad22-7165f61496a3@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%40Shomarrreh%20%7C%204%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+
+vless://36326231-3138-4166-b834-303439306131@185.143.234.96:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#%40Shomarrreh%20%7C%205%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
