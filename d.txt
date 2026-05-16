@@ -1,5 +1,15 @@
 
 
+vless://c6c0b82d-a916-47e4-a00d-cad7157ce26a@Tamin.ir:8080?path=%2F&security=none&encryption=none&host=easy.sedighi0915.ir&type=ws#https://t.me/VIPV2rayNGNP
+
+vless://c1605eaf-99aa-4e8e-a418-baf48c17acb9@arvancloud.ir:80?encryption=none&host=panel.s7r.ir&path=%2Fed%3D2048&security=none&type=wshttps://t.me/VIPV2rayNGNP
+
+
+vless://c6c0b82d-a916-47e4-a00d-cad7157ce26a@Tamin.ir:8080?path=%2F&security=none&encryption=none&host=easy.sedighi0915.ir&type=ws#https://t.me/Configir98
+
+vless://c1605eaf-99aa-4e8e-a418-baf48c17acb9@arvancloud.ir:80?encryption=none&host=panel.s7r.ir&path=%2Fed%3D2048&security=none&type=ws#https://t.me/Configir98
+
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
@@ -85,18 +95,6 @@ vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?path=%2F&security=none&
 
 
 trojan://humanity@104.17.150.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%A7%94%E2%80%8D%E2%99%82%EF%B8%8F98%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
-
-
-vless://e336f7cc-fe2b-46ca-b844-3537e80b1c67@snapp.ir:8080?path=%2FEmbestpro1&security=none&encryption=none&host=Cyrus.zomavo.ir&type=ws#%40TROWER_NEWS%40Free_TROWER📱🏳️@TROWER_NEWS📱
-
-
-vless://e336f7cc-fe2b-46ca-b844-3537e80b1c67@snapp.ir:8080?path=%2FEmbestpro1&security=none&encryption=none&host=Cyrus.zomavo.ir&type=ws#%40TROWER_NEWS%40Free_TROWER
-
-
-vless://e336f7cc-fe2b-46ca-b844-3537e80b1c67@snapp.ir:8080?path=%2FEmbestpro1&security=none&encryption=none&host=Cyrus.zomavo.ir&type=ws#%40TROWER_NEWS%40Free_TROWER📱🏳️@TROWER_NEWS📱
-
-
-vless://e336f7cc-fe2b-46ca-b844-3537e80b1c67@snapp.ir:8080?path=%2FEmbestpro1&security=none&encryption=none&host=Cyrus.zomavo.ir&type=ws#%40TROWER_NEWS%40Free_TROWER📱🏳️@TROWER_NEWS📱
 
 
 vless://801b0e63-4134-446e-aba7-d17d26f746e7@tapsi.ir:8880?path=%2Fdownload&security=none&encryption=none&host=dl.filmplus.top&type=ws#%40Shomarrreh%20%7C%201%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
