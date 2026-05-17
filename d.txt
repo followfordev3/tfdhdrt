@@ -11,21 +11,18 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.223:443?security=tls&alp
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#
 
 
+vless://ae547922-edca-95df-5a00-03fff1a3b2b4@varzesh3.com:8080?path=%2F&security=&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#https://t.me/VIPV2rayNGNP
+
+
 vless://2fe27e8f-3d31-4083-8105-41f62c6b88ef@rayan.tehranionliine.ir:80?path=%2F&security=&encryption=none&type=ws#https://t.me/Configir98﻿
 
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#https://t.me/Configir98
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#https://t.me/Configir98
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.166.138:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#https://t.me/Configir98
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.223:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#https://t.me/Configir98
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#https://t.me/Configir98﻿
+vless://ae547922-edca-95df-5a00-03fff1a3b2b4@varzesh3.com:8080?path=%2F&security=&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#https://t.me/Configir98
 
 
-trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
+vless://915889ce-41ee-4eeb-88cf-c5f9da808a63@34948_mohaaaad.2.globalmymusic2.com:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&security=none&encryption=none&host=best.3.iran.avenflow.ir&type=ws#https://t.me/Configir98
+
+vless://fc76eb5a-4675-4816-bff5-d8e689b58daf@anten.ir:8080?encryption=none&type=ws&path=%2F&host=hikino.docos.tech#https://t.me/Configir98﻿
 
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?security=tls&encryption=none&insecure=0&host=sni.my111000.tech&type=ws&allowInsecure=0&sni=sni.my111000.tech#%F0%9F%AB%8E47%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
@@ -60,9 +57,6 @@ vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@77.239.101.3:443?security=reality&e
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#%E2%9B%B0%EF%B8%8F22%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
-trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghak
-
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?security=tls&encryption=none&insecure=0&host=sni.my111000.tech&type=ws&allowInsecure=0&sni=sni.my111000.tech#%F0%9F%AB%8E47%40oneclickvpnkeys
 
 
@@ -93,9 +87,6 @@ vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@77.239.101.3:443?security=reality&e
 
 
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#%E2%9B%B0%EF%B8%8F22%40oneclickvpnkeys
-
-
-trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
 
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?security=tls&encryption=none&insecure=0&host=sni.my111000.tech&type=ws&allowInsecure=0&sni=sni.my111000.tech#%F0%9F%AB%8E47%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
