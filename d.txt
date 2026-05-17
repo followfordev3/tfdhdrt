@@ -1,18 +1,28 @@
 
 
-vmess://eyJhZGQiOiJhay5yZWF0YS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZDMyMmViYS1mN2I4LTRhODQtYmRlYi1mY2NlOTI4NjM1MWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE2NDgyIiwicHMiOiJodHRwczovL3QubWUvVklQVjJyYXlOR05QIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@VIPV2rayNGNP
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.inhttps://t.me/VIPV2rayNGNP
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.166.138:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#https://t.me/VIPV2rayNGNP
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.223:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#https://t.me/VIPV2rayNGNP
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#
 
 
-vless://0a47ab98-b50b-4b92-baec-6e16af930dde@snapp.ir:8080?type=ws&encryption=none&path=%2FEmbestpro1&host=Cyrus.zomavo.ir&security=none#https://t.me/Configir98
+vless://2fe27e8f-3d31-4083-8105-41f62c6b88ef@rayan.tehranionliine.ir:80?path=%2F&security=&encryption=none&type=ws#https://t.me/Configir98﻿
 
 
-vless://6248e551-1423-449e-93f5-ee02f10e37e3@arvancloud.ir:2095?encryption=none&type=ws&path=%2Fstream&host=hosting.linuweb.ir#https://t.me/Configir98﻿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#https://t.me/Configir98
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#https://t.me/Configir98
 
-vmess://eyJhZGQiOiJhay5yZWF0YS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZDMyMmViYS1mN2I4LTRhODQtYmRlYi1mY2NlOTI4NjM1MWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE2NDgyIiwicHMiOiJodHRwczovL3QubWUvQ29uZmlnaXI5OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=﻿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.166.138:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#https://t.me/Configir98
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.223:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#https://t.me/Configir98
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#https://t.me/Configir98﻿
 
 
 trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
@@ -47,7 +57,7 @@ vless://5da5bc00-ea44-462e-bdb7-7687346ad039@3.8.160.120:18633?security=reality&
 vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@77.239.101.3:443?security=reality&encryption=none&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.deepl.com&sid=0123456789abcdef#%F0%9F%AB%8E95%40oneclickvpnkeysکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#v2ray_dalghak
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#%E2%9B%B0%EF%B8%8F22%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
 trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghak
@@ -82,7 +92,7 @@ vless://5da5bc00-ea44-462e-bdb7-7687346ad039@3.8.160.120:18633?security=reality&
 vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@77.239.101.3:443?security=reality&encryption=none&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.deepl.com&sid=0123456789abcdef#%F0%9F%AB%8E95%40oneclickvpnkeys
 
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#%E2%9B%B0%EF%B8%8F22%40oneclickvpnkeys
 
 
 trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
@@ -115,6 +125,9 @@ vless://5da5bc00-ea44-462e-bdb7-7687346ad039@3.8.160.120:18633?security=reality&
 
 
 vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@77.239.101.3:443?security=reality&encryption=none&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.deepl.com&sid=0123456789abcdef#%F0%9F%AB%8E95%40oneclickvpnkeysکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+
+
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#%E2%9B%B0%EF%B8%8F22%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
 vless://801b0e63-4134-446e-aba7-d17d26f746e7@tapsi.ir:8880?path=%2Fdownload&security=none&encryption=none&host=dl.filmplus.top&type=ws#%40Shomarrreh%20%7C%201%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
