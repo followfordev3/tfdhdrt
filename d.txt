@@ -1,32 +1,13 @@
 
 
-vless://4d099dc1-85c6-4414-b372-8fcbe1795112@blubank.sb24.ir:80?type=ws&encryption=none&path=%2F&host=api.sobhan.cam&security=none#https://t.me/VIPV2rayNGNP
+vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&encryption=none&headerType=none&type=tcp#https://t.me/VIPV2rayNGNP
+
+vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&encryption=none&headerType=none&type=tcp#https://t.me/VIPV2rayNGNP
 
 
-vless://88e8243a-fc9a-4022-80d4-e0c5801c2256@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss2.limitless-cloud.ir#@vipV2rayNGnp
+vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&encryption=none&headerType=none&type=tcp#https://t.me/Configir98
 
-
-vless://97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4@varzesh3.com:8080?encryption=none&type=ws&path=%2F&host=cdn-665e-o0g.fars-rehan.ir#https://t.me/Configir98
-
-
-vless://4d099dc1-85c6-4414-b372-8fcbe1795112@blubank.sb24.ir:80?type=ws&encryption=none&path=%2F&host=api.sobhan.cam&security=none#https://t.me/Configir98
-
-
-vless://88e8243a-fc9a-4022-80d4-e0c5801c2256@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss2.limitless-cloud.ir#https://t.me/Configir98
-
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?security=tls&encryption=none&insecure=0&host=sni.my111000.tech&type=ws&allowInsecure=0&sni=sni.my111000.tech#%F0%9F%AB%8E47%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
-
-
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.59:2053?security=reality&encryption=none&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&type=grpc&serviceName=grpc&sni=www.apple.com&sid=23#v2ray_crgaming7کانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
-
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.191:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F&security=tls&encryption=none&insecure=1&host=sni.my111000.tech&type=ws&allowInsecure=1&sni=sni.my111000.tech#%E2%9B%B295%40oneclickvpnkeysکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
-
-
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com
-
-socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80کانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&encryption=none&headerType=none&type=tcp#https://t.me/Configir98
 
 
 trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
@@ -47,18 +28,10 @@ vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@77.239.101.3:443?security=reality&e
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#%E2%9B%B0%EF%B8%8F22%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?security=tls&encryption=none&insecure=0&host=sni.my111000.tech&type=ws&allowInsecure=0&sni=sni.my111000.tech#%F0%9F%AB%8E47%40oneclickvpnkeys
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.75.238:443?path=%2Ftools%2Fp&security=tls&encryption=none&insecure=0&host=pagescm.freen7.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen7.de5.net#%F0%9F%A7%94%E2%80%8D%E2%99%82%EF%B8%8F99%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.59:2053?security=reality&encryption=none&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&type=grpc&serviceName=grpc&sni=www.apple.com&sid=23#v2ray_crgaming7
-
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.191:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F&security=tls&encryption=none&insecure=1&host=sni.my111000.tech&type=ws&allowInsecure=1&sni=sni.my111000.tech#%E2%9B%B295%40oneclickvpnkeys
-
-
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com
-
-socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80
+vless://monacoVPN@172.65.111.43:22?security=&encryption=none&headerType=http&type=tcp#v2raygulfکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨✨
 
 
 trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghak
@@ -79,18 +52,10 @@ vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@77.239.101.3:443?security=reality&e
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#%E2%9B%B0%EF%B8%8F22%40oneclickvpnkeys
 
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?security=tls&encryption=none&insecure=0&host=sni.my111000.tech&type=ws&allowInsecure=0&sni=sni.my111000.tech#%F0%9F%AB%8E47%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.75.238:443?path=%2Ftools%2Fp&security=tls&encryption=none&insecure=0&host=pagescm.freen7.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen7.de5.net#%F0%9F%A7%94%E2%80%8D%E2%99%82%EF%B8%8F99%40oneclickvpnkeys
 
 
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.59:2053?security=reality&encryption=none&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&type=grpc&serviceName=grpc&sni=www.apple.com&sid=23#v2ray_crgaming7کانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
-
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.191:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F&security=tls&encryption=none&insecure=1&host=sni.my111000.tech&type=ws&allowInsecure=1&sni=sni.my111000.tech#%E2%9B%B295%40oneclickvpnkeysکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
-
-
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com
-
-socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80کانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+vless://monacoVPN@172.65.111.43:22?security=&encryption=none&headerType=http&type=tcp#v2raygulf
 
 
 trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
@@ -111,4 +76,7 @@ vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@77.239.101.3:443?security=reality&e
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#%E2%9B%B0%EF%B8%8F22%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
-vless://%40IR_NETLIFY@104.198.14.52:443?mode=auto&path=%2FIR-NETLIFY&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingKey%22%3A%22iran%22%2C%22xPaddingHeader%22%3A%22iran%22%2C%22headers%22%3A%7B%22x-host%22%3A%22193.233.202.166%3A444%22%7D%7D&insecure=1&host=mypass.org&fp=chrome&type=xhttp&allowInsecure=1&sni=172.217.23.238#%40MiTi_4vpn
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.75.238:443?path=%2Ftools%2Fp&security=tls&encryption=none&insecure=0&host=pagescm.freen7.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen7.de5.net#%F0%9F%A7%94%E2%80%8D%E2%99%82%EF%B8%8F99%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+
+
+vless://monacoVPN@172.65.111.43:22?security=&encryption=none&headerType=http&type=tcp#v2raygulfکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨✨
