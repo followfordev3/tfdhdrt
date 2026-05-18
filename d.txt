@@ -1,19 +1,30 @@
 
 
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&encryption=none&headerType=none&type=tcp#https://t.me/VIPV2rayNGNP
+vless://aa2b0e7a-6af9-4dc0-a378-04de4e801a92@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/VIPV2rayNGNP
 
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&encryption=none&headerType=none&type=tcp#https://t.me/VIPV2rayNGNP
+vless://71b308e0-e718-41b5-8c33-13cbebce3fe9@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/VIPV2rayNGNP
+
+vless://e757b0a0-d217-41c8-8177-05b7f2ab3462@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/VIPV2rayNGNP
+
+vless://da992858-3123-4aea-9bb5-6c8f8d74688d@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/VIPV2rayNGNP
+
+vless://693d989f-7d83-4b64-92d8-f65a01b00426@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/VIPV2rayNGNP
+
+vless://bd6e4c14-9d2b-4fa8-a3cf-1b74dd78ede7@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/VIPV2rayNGNP
+
+vless://ec3ec6ca-6e64-48b2-964a-5d0cfecfabd0@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/VIPV2rayNGNP
+
+vless://78c82ae4-596b-45f6-8d21-2f136db7d205@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/VIPV2rayNGNP
+
+vless://6408f8f3-4d00-4c36-aa0e-b49d09a26a34@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/VIPV2rayNGNP
+
+vless://80dd98cd-b501-4e3e-98e0-274e01916f94@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#https://t.me/VIPV2rayNGNP
 
 
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=&encryption=none&headerType=none&type=tcp#https://t.me/Configir98
-
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=&encryption=none&headerType=none&type=tcp#https://t.me/Configir98
+vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?encryption=none&security=none&type=ws&path=%2F&host=dns-02.dl-toucan.monster#https://t.me/VIPV2rayNGNP
 
 
-trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
-
-
-vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?path=%2F&security=none&encryption=none&host=M1.snllshop.ir&type=wsکانفیگ ویتوری 6 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
+vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?encryption=none&security=none&type=ws&path=%2F&host=dns-02.dl-toucan.monster#https://t.me/Configir98
 
 
 trojan://humanity@104.17.150.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%A7%94%E2%80%8D%E2%99%82%EF%B8%8F98%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
@@ -32,12 +43,6 @@ vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.75.238:443?path=%2Ftools%2Fp
 
 
 vless://monacoVPN@172.65.111.43:22?security=&encryption=none&headerType=http&type=tcp#v2raygulfکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨✨
-
-
-trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghak
-
-
-vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?path=%2F&security=none&encryption=none&host=M1.snllshop.ir&type=ws
 
 
 trojan://humanity@104.17.150.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%A7%94%E2%80%8D%E2%99%82%EF%B8%8F98%40oneclickvpnkeys
@@ -58,12 +63,6 @@ vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.75.238:443?path=%2Ftools%2Fp
 vless://monacoVPN@172.65.111.43:22?security=&encryption=none&headerType=http&type=tcp#v2raygulf
 
 
-trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
-
-
-vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?path=%2F&security=none&encryption=none&host=M1.snllshop.ir&type=wsکانفیگ ویتوری 6 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨
-
-
 trojan://humanity@104.17.150.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%A7%94%E2%80%8D%E2%99%82%EF%B8%8F98%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
@@ -80,3 +79,6 @@ vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.75.238:443?path=%2Ftools%2Fp
 
 
 vless://monacoVPN@172.65.111.43:22?security=&encryption=none&headerType=http&type=tcp#v2raygulfکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨✨✨
+
+
+vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?encryption=none&security=none&type=ws&path=%2F&host=dns-02.dl-toucan.monster#%40amir_webstudio
