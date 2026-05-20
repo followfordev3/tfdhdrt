@@ -1,14 +1,5 @@
 
 
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#
-
-
-socks://Og%3D%3D@185.239.106.84:1449#https://t.me/Configir98
-
-
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#https://t.me/Configir98
-
-
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.211:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#%E2%9B%B0%EF%B8%8F22%40oneclickvpnkeysکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
@@ -54,19 +45,25 @@ trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&
 vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=33f2#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfigکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
 
 
-vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6InQubWUvdmFzbF9iYXNoaW0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-
-vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6InQubWUvdmFzbF9iYXNoaW0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-
 vless://c2519985-38f2-9f86-d834-cad149916162@salamirani.hamid.radv.ir:80?path=%2F&security=&encryption=none&type=ws#%40MiTi_4vpn%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88
 
 
 vless://77832ed9-47a2-447c-96b3-a3390f2ede1a@nobitex.ir:80?path=%2F&security=none&encryption=none&host=support.mindigosupport.ir&type=ws#%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C%20%D8%A8%D8%B2%D9%86%DB%8C%D8%AF%20%D9%86%D9%BE%D8%B3%D8%AA%D8%B1%20%D9%88%D8%B5%D9%84%20%D9%86%D9%85%DB%8C%D8%B4%D9%87%29%20%40MiTi_4vpn
 
 
+vless://b5dfd9c7-723e-485a-88bf-43ce15d6fc80@nobitex.ir:80?path=%2F&security=none&encryption=none&host=support.mindigosupport.ir&type=ws#%40MiTi_4vpn%D8%AC%D9%88%DB%8C%D9%86%20%DA%86%D9%86%D9%84%20%D8%B4%D9%88
+
+
+vless://9a8689c4-d2f2-481c-b9a1-91acc0c0b735@nobitex.ir:80?path=%2F&security=none&encryption=none&host=support.mindigosupport.ir&type=ws#%40MiTi_4vpn%20%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%F0%9F%94%A5%F0%9F%87%BA%F0%9F%87%B8
+
+
+vless://95c62e8f-db78-46d9-9a1a-b8c85757f3cf@nobitex.ir:80?path=%2F&security=none&encryption=none&host=support.mindigosupport.ir&type=ws#%DA%86%D9%86%D9%84%20%40MiTi_4vpn%F0%9F%94%A5
+
+
 socks://Og@185.239.106.84:1449#%40Shomarrreh
 
 
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%40Shomarrreh
+
+
+socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#%E2%9C%85%EF%B8%8F%D8%A8%DB%8C%D8%A7%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Shomarrreh%40
