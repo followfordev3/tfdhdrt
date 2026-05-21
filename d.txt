@@ -1,69 +1,24 @@
 
 
-trojan://humanity@2.144.22.10:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#https://t.me/VIPV2rayNGNP
+socks://Og@171.22.24.184:1080#@VIPV2rayNGNP
 
-vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUwZDcyZjRiLWY3NTktNGJlZC1hZGRmLTNhMzRhMzZiYTk4MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIxNTYiLCJwcyI6Imh0dHBzOi8vdC5tZS9WSVBWMnJheU5HTlAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-
-vless://12361e81-7af2-1cd4-2595-eba27ddadce8@18.192.145.152:443?type=tcp&encryption=none&security=none#@vipV2rayNGnp
-
-vless://81d6a801-ab9f-25a7-c0ba-9acb875e86da@18.185.149.23:443?type=tcp&encryption=none&security=none#@vipV2rayNGnp
-
-vless://81d6a801-ab9f-25a7-c0ba-9acb875e86da@18.153.32.10:443?type=tcp&encryption=none&security=none#@vipV2rayNGnp
-
-vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.192.134.185:443?type=tcp&encryption=none&security=none#@vipV2rayNGnp
-
-vless://0b6cc407-50e2-1efb-f49c-524e05668e55@18.194.137.197:443?type=tcp&encryption=none&security=none#@vipV2rayNGnp
-
-vless://523bee30-6167-432a-3208-91ca147d9410@18.159.118.65:443?type=tcp&encryption=none&security=none#@vipV2rayNGnp
+socks://Og@178.131.140.103:1080#
 
 
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#@vipV2rayNGnp
+vless://07ec393b-987d-12fd-004d-02ade3c94017@snapp.ir:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=i-love-iran2.amlakayuni.ir#https://t.me/Configir98
+
+vless://39f54e00-d8b3-40ff-81b5-951cf11f2dad@arvancloud.ir:2086?path=%2Fcode&security=none&encryption=none&host=vizo4.yeksanpower.ir&type=ws#https://t.me/Configir98
 
 
-trojan://humanity@193.151.152.73:40443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#https://t.me/VIPV2rayNGNP
+socks://Og@171.22.24.184:1080#https://t.me/Configir98
 
-
-trojan://humanity@2.144.22.10:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#https://t.me/Configir98
-
-vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUwZDcyZjRiLWY3NTktNGJlZC1hZGRmLTNhMzRhMzZiYTk4MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIxNTYiLCJwcyI6Imh0dHBzOi8vdC5tZS9Db25maWdpcjk4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-
-vless://12361e81-7af2-1cd4-2595-eba27ddadce8@18.192.145.152:443?type=tcp&encryption=none&security=none#https://t.me/Configir98
-
-vless://81d6a801-ab9f-25a7-c0ba-9acb875e86da@18.185.149.23:443?type=tcp&encryption=none&security=none#https://t.me/Configir98
-
-vless://81d6a801-ab9f-25a7-c0ba-9acb875e86da@18.153.32.10:443?type=tcp&encryption=none&security=none#https://t.me/Configir98
-
-vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.192.134.185:443?type=tcp&encryption=none&security=none#https://t.me/Configir98
-
-vless://0b6cc407-50e2-1efb-f49c-524e05668e55@18.194.137.197:443?type=tcp&encryption=none&security=none#https://t.me/Configir98
-
-vless://523bee30-6167-432a-3208-91ca147d9410@18.159.118.65:443?type=tcp&encryption=none&security=none#https://t.me/Configir98
-
-
-socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#https://t.me/Configir98
-
-
-trojan://humanity@193.151.152.73:40443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#https://t.me/Configir98
-
-
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#v2ray_dalghakکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
-
-
-vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=33f2#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfigکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
+socks://Og@178.131.140.103:1080#https://t.me/Configir98
 
 
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#v2ray_dalghakکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨
 
 
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.100:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.fh-aachen.de#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨
-
-
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#v2ray_dalghak
-
-
-vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=33f2#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
 
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#v2ray_dalghak
@@ -72,28 +27,16 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&en
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.100:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.fh-aachen.de#v2ray_dalghak
 
 
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#v2ray_dalghakکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
-
-
-vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=33f2#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfigکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨✨
-
-
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#v2ray_dalghakکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨
 
 
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.100:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.fh-aachen.de#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨
 
 
-vless://9a8689c4-d2f2-481c-b9a1-91acc0c0b735@nobitex.ir:80?path=%2F&security=none&encryption=none&host=support.mindigosupport.ir&type=ws#%40MiTi_4vpn%20%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%F0%9F%94%A5%F0%9F%87%BA%F0%9F%87%B8
-
-
-vless://95c62e8f-db78-46d9-9a1a-b8c85757f3cf@nobitex.ir:80?path=%2F&security=none&encryption=none&host=support.mindigosupport.ir&type=ws#%DA%86%D9%86%D9%84%20%40MiTi_4vpn%F0%9F%94%A5
-
-
 vless://c3742272-63a3-1e74-c368-cca925139952@salamirani.hamid.radv.ir:80?path=%2F&security=none&encryption=none&type=ws#%40MiTi_4vpn%20%DA%86%D9%86%D9%84
 
 
-trojan://humanity@193.151.152.73:40443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#amir_webstudio
+vless://0b2c18f0-3739-2479-013e-1637cb9f9f4a@5.160.58.129:50019?path=%2Ftrue&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=alabama-tigr.info&fp=chrome&type=ws&sni=alabama-tigr.info#%40amir_webstudio
 
 
 trojan://humanity@193.151.152.73:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%DB%8C%DA%A9%20-%20Shomarrreh%40
