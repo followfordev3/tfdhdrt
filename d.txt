@@ -21,17 +21,7 @@ vless://523bee30-6167-432a-3208-91ca147d9410@18.159.118.65:443?type=tcp&encrypti
 socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#@vipV2rayNGnp
 
 
-vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.157.213.215:443?type=tcp&encryption=none&security=none#https://t.me/Configir98
-
-vless://523bee30-6167-432a-3208-91ca147d9410@18.197.116.144:443?type=tcp&encryption=none&security=none#https://t.me/Configir98
-
-vless://0b6cc407-50e2-1efb-f49c-524e05668e55@18.197.164.252:443?type=tcp&encryption=none&security=none#https://t.me/Configir98 
-
-vless://0b6cc407-50e2-1efb-f49c-524e05668e55@18.159.146.147:443?type=tcp&encryption=none&security=none#https://t.me/Configir98
-
-vless://81d6a801-ab9f-25a7-c0ba-9acb875e86da@18.184.134.186:443?type=tcp&encryption=none&security=none#https://t.me/Configir98
-
-vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.192.95.247:443?type=tcp&encryption=none&security=none#https://t.me/Configir98
+trojan://humanity@193.151.152.73:40443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#https://t.me/VIPV2rayNGNP
 
 
 trojan://humanity@2.144.22.10:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#https://t.me/Configir98
@@ -53,6 +43,9 @@ vless://523bee30-6167-432a-3208-91ca147d9410@18.159.118.65:443?type=tcp&encrypti
 
 
 socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#https://t.me/Configir98
+
+
+trojan://humanity@193.151.152.73:40443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#https://t.me/Configir98
 
 
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#v2ray_dalghakکانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 ✨✨✨✨
@@ -100,7 +93,7 @@ vless://95c62e8f-db78-46d9-9a1a-b8c85757f3cf@nobitex.ir:80?path=%2F&security=non
 vless://c3742272-63a3-1e74-c368-cca925139952@salamirani.hamid.radv.ir:80?path=%2F&security=none&encryption=none&type=ws#%40MiTi_4vpn%20%DA%86%D9%86%D9%84
 
 
-socks://dXNlcjE0OmVFMXRUYkIzcVE@mseu8.fastspeed.cfd:7854#%E2%9C%85%EF%B8%8F%D8%A8%DB%8C%D8%A7%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Shomarrreh%40
+trojan://humanity@193.151.152.73:40443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#amir_webstudio
 
 
 trojan://humanity@193.151.152.73:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%DB%8C%DA%A9%20-%20Shomarrreh%40
@@ -121,3 +114,6 @@ socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40Shomarrreh%20%7C
 trojan://humanity@85.198.11.172:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%40Shomarrreh%20%7C%202%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 
 trojan://humanity@2.144.22.10:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%40Shomarrreh%20%7C%203%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+
+
+socks://QHZpcGNvbmZpbmdnOkB2aXBjb25maW5nZw@91.222.196.8:7071#%40Shomarrreh
