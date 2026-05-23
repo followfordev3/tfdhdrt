@@ -1,15 +1,65 @@
 
 
-vless://7eac8a88-fea3-40d2-8a6a-e0dd4e8ac6e6@varzesh3.com:8080?path=%2Fcdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#
+vless://dbbb5ffe-b5ce-4ce5-b731-6377dc90712d@185.143.232.122:2052?path=%2Fnews&security=none&encryption=none&host=cdn-gr.pasargardnet.ir&type=ws#@vipV2rayNGnp
 
 
-socks://Og@109.122.252.86:1080#https://t.me/Configir98
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=sv-1.jservices.ir#@vipV2rayNGnp
+
+vless://5654b922-2aa3-47c2-bc60-09d59c9cf495@198.169.2.1:443?encryption=none&type=xhttp&security=tls&path=%2Fapi&host=relay-g356jz7c.vercel.app&mode=auto&sni=relay-g356jz7c.vercel.app&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#@vipV2rayNGnp
+
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=sv-1.jservices.ir#@vipV2rayNGnp
+
+vless://cb8ad1f0-85ef-4659-a65d-b4e01baf587d@sbb.4nel.ir:2052?encryption=none&type=ws&path=%2F&host=sbb.4nel.ir#@vipV2rayNGnp
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?type=ws&security=tls&path=%2Ftr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#@vipV2rayNGnp
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#@vipV2rayNGnp
+
+trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#@vipV2rayNGnp
+
+
+vless://13b540ac-6ce2-4686-a110-e87f6dafd4ec@snappfood.ir:2052?type=ws&encryption=none&path=%2Fws&host=cdnisfucka.drnimaamini.ir&security=none#Telegram : https://t.me/VIPV2rayNGNP
+
+vless://3bbe4c53-f521-448e-b7db-f4ae960a0140@snappfood.ir:2052?type=ws&encryption=none&path=%2Fws&host=cdnisfucka.drnimaamini.ir&security=none#Telegram : https://t.me/VIPV2rayNGNP
+
+vless://f8f690d0-24f0-4e2f-accb-98fdec3b5644@snappfood.ir:2052?type=ws&encryption=none&path=%2Fws&host=cdnisfucka.drnimaamini.ir&security=none#Telegram :  https://t.me/VIPV2rayNGNP
+
+
+vless://dbbb5ffe-b5ce-4ce5-b731-6377dc90712d@185.143.232.122:2052?path=%2Fnews&security=none&encryption=none&host=cdn-gr.pasargardnet.ir&type=ws#https://t.me/Configir98
+
+
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=sv-1.jservices.ir#https://t.me/Configir98
+
+vless://5654b922-2aa3-47c2-bc60-09d59c9cf495@198.169.2.1:443?encryption=none&type=xhttp&security=tls&path=%2Fapi&host=relay-g356jz7c.vercel.app&mode=auto&sni=relay-g356jz7c.vercel.app&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#https://t.me/Configir98
+
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=sv-1.jservices.ir#https://t.me/Configir98
+
+vless://cb8ad1f0-85ef-4659-a65d-b4e01baf587d@sbb.4nel.ir:2052?encryption=none&type=ws&path=%2F&host=sbb.4nel.ir#https://t.me/Configir98
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?type=ws&security=tls&path=%2Ftr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#https://t.me/Configir98
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#https://t.me/Configir98
+
+trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#https://t.me/Configir98
+
+
+vless://13b540ac-6ce2-4686-a110-e87f6dafd4ec@snappfood.ir:2052?type=ws&encryption=none&path=%2Fws&host=cdnisfucka.drnimaamini.ir&security=none#Telegram : https://t.me/Configir98
+
+vless://3bbe4c53-f521-448e-b7db-f4ae960a0140@snappfood.ir:2052?type=ws&encryption=none&path=%2Fws&host=cdnisfucka.drnimaamini.ir&security=none#Telegram : https://t.me/Configir98
+
+vless://f8f690d0-24f0-4e2f-accb-98fdec3b5644@snappfood.ir:2052?type=ws&encryption=none&path=%2Fws&host=cdnisfucka.drnimaamini.ir&security=none#Telegram :  https://t.me/Configir98
 
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&insecure=0&host=sni.111000.v6.rocks&type=ws&allowInsecure=0&sni=sni.111000.v6.rocks#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨
 
 
 vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=nEO1-3zC.pAGes.DeV&type=ws&allowInsecure=0&sni=nEO1-3zC.pAGes.DeV#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
+
+
+trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨
+
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#v2ray_dalghakکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
 
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&insecure=0&host=sni.111000.v6.rocks&type=ws&allowInsecure=0&sni=sni.111000.v6.rocks#v2ray_dalghak
@@ -18,10 +68,22 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?path=%2F%3Fed%3D25
 vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=nEO1-3zC.pAGes.DeV&type=ws&allowInsecure=0&sni=nEO1-3zC.pAGes.DeV#v2ray_dalghak
 
 
+trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghak
+
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#v2ray_dalghak
+
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&insecure=0&host=sni.111000.v6.rocks&type=ws&allowInsecure=0&sni=sni.111000.v6.rocks#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨
 
 
 vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=nEO1-3zC.pAGes.DeV&type=ws&allowInsecure=0&sni=nEO1-3zC.pAGes.DeV#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
+
+
+trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨
+
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#v2ray_dalghakکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
 
 
 vless://c3742272-63a3-1e74-c368-cca925139952@salamirani.hamid.radv.ir:80?path=%2F&security=none&encryption=none&type=ws#%40MiTi_4vpn%20%DA%86%D9%86%D9%84
