@@ -10,6 +10,11 @@ vless://17574dcf-0fa4-4693-ba3e-5dda6894f507@f.pvnet.ir:8880?path=%2F&security=n
 vless://5d875dbe-926b-45f7-96a6-8e6a125c14c3@f.pvnet.ir:8880?path=%2F&security=none&encryption=none&type=ws#https://t.me/VIPV2rayNGNP
 
 
+socks://Og@81.12.80.194:3030#https://t.me/VIPV2rayNGNP
+
+socks://Og@81.12.80.194:3030#https://t.me/VIPV2rayNGNP
+
+
 vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?path=%2Fwskhan&security=none&encryption=none&host=mdproxyi.ir&type=ws#https://t.me/Configir98
 
 
@@ -23,22 +28,16 @@ vless://17574dcf-0fa4-4693-ba3e-5dda6894f507@f.pvnet.ir:8880?path=%2F&security=n
 vless://5d875dbe-926b-45f7-96a6-8e6a125c14c3@f.pvnet.ir:8880?path=%2F&security=none&encryption=none&type=ws#https://t.me/Configir98
 
 
-trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨
-
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#v2ray_dalghakکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
-
-
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
 
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=uk1.fromblancwithlove.com#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨
 
 
-trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghak
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=%2Fvless%2F&security=&encryption=none&type=ws#crgaming7 👈 کانال تلگرامکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
 
 
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#v2ray_dalghak
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#crgaming7 👈 کانال تلگرامکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
 
 
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#v2ray_dalghak
@@ -47,16 +46,22 @@ vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?security=tls&encry
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=uk1.fromblancwithlove.com#v2ray_dalghak
 
 
-trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=abest.api-tel.xyz&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=%2Fvless%2F&security=&encryption=none&type=ws#crgaming7 👈 کانال تلگرام
 
 
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#v2ray_dalghakکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#crgaming7 👈 کانال تلگرام
 
 
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
 
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=uk1.fromblancwithlove.com#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨
+
+
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=%2Fvless%2F&security=&encryption=none&type=ws#crgaming7 👈 کانال تلگرامکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
+
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#crgaming7 👈 کانال تلگرامکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
 
 
 vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws#%40Shomarrreh
