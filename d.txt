@@ -6,10 +6,7 @@ trojan://humanity@2.144.23.72:40443?path=%2Fassignment&security=tls&insecure=0&h
 socks://Og@81.12.80.194:3030#@vipV2rayNGnp
 
 
-vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#https://t.me/Configir98
-
-
-trojan://humanity@2.144.23.72:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#https://t.me/Configir98
+socks://Og@81.12.80.194:3030#@VIPV2rayNGNP
 
 
 socks://Og@81.12.80.194:3030#https://t.me/Configir98
@@ -26,6 +23,9 @@ vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&secur
 vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@109.122.252.231:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#https://t.me/Configir98
 
 vless://dbbb5ffe-b5ce-4ce5-b731-6377dc90712d@185.143.232.122:2052?path=%2Fnews&security=none&encryption=none&host=cdn-gr.pasargardnet.ir&type=ws#https://t.me/Configir98
+
+
+socks://Og@81.12.80.194:3030#https://t.me/Configir98
 
 
 vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=nEO1-3zC.pAGes.DeV&type=ws&allowInsecure=0&sni=nEO1-3zC.pAGes.DeV#v2ray_dalghakکانفیگ ویتوری 3 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
@@ -56,9 +56,6 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&a
 
 
 vless://9f2c9e18-2078-496a-af95-d22499dc63ed@hi.nahidapp.com:443?path=%2Fhaji%2F&security=tls&encryption=none&insecure=0&host=haji.nahidapp.com&type=ws&allowInsecure=0&sni=haji.nahidapp.com#%40MiTi_4vpn_wifi
-
-
-vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#%40Amir_Webstudio
 
 
 socks://Og@109.122.252.86:1080#%40Shomarrreh
