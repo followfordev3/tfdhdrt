@@ -18,6 +18,12 @@ socks://Og@81.12.80.194:3030#https://t.me/VIPV2rayNGNP
 vless://ba5b5ba4-d951-4d73-91be-2775a7e3705a@panel.shahriareiran.com:80?path=%2F&security=none&encryption=none&host=down.speedtell.ir&type=ws#
 
 
+vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&security=&encryption=none&type=ws#@vipV2rayNGnp
+
+
+vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&security=&encryption=none&type=ws#https://t.me/VIPV2rayNGNP
+
+
 vless://5ce600a8-9be9-4d10-9a6b-09c4569ebb2c@62.220.120.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=o21.netsecureteam10.ir#https://t.me/Configir98
 
 
@@ -31,6 +37,12 @@ vless://5d875dbe-926b-45f7-96a6-8e6a125c14c3@f.pvnet.ir:8880?path=%2F&security=n
 vless://b8718a25-e3ad-43b1-b4ef-0bcc4732f381@snapp.ir:2052?path=%2F&security=none&encryption=none&host=weed2.torkonlineshop.ir&type=ws#https://t.me/Configir98
 
 
+vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&security=&encryption=none&type=ws#https://t.me/Configir98
+
+
+trojan://humanity@104.20.42.250:443?security=tls&type=ws&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&fp=ios&allowInsecure=1#https://t.me/Configir98
+
+
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
 
 
@@ -41,6 +53,12 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=%2Fvless%2F&s
 
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#crgaming7 👈 کانال تلگرامکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
+
+
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#crgaming7 👈 کانال تلگرامکانفیگ ویتوری 6 ✅خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
+
+
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%40crgaming7%20%F0%9F%91%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85کانفیگ ویتوری 7 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
 
 
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#v2ray_dalghak
@@ -55,6 +73,12 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=%2Fvless%2F&s
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#crgaming7 👈 کانال تلگرام
 
 
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#crgaming7 👈 کانال تلگرام
+
+
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%40crgaming7%20%F0%9F%91%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+
+
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
 
 
@@ -67,13 +91,16 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=%2Fvless%2F&s
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#crgaming7 👈 کانال تلگرامکانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
 
 
-socks://Og@81.12.80.194:3030#@amir_webstudio
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#crgaming7 👈 کانال تلگرامکانفیگ ویتوری 6 ✅خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
 
 
-vless://b8718a25-e3ad-43b1-b4ef-0bcc4732f381@snapp.ir:2052?path=%2F&security=none&encryption=none&host=weed2.torkonlineshop.ir&type=ws#%40Amir_Webstudio%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%40crgaming7%20%F0%9F%91%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85کانفیگ ویتوری 7 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨
 
 
 trojan://humanity@104.20.42.250:443?security=tls&type=ws&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&fp=ios&allowInsecure=1#%DA%86%D9%86%D9%84%20%40amir_webstudio
+
+
+vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&security=&encryption=none&type=ws#%40amir_webstudio
 
 
 vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws#%40Shomarrreh
