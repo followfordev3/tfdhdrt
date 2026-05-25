@@ -5,9 +5,19 @@ socks://93.113.230.143:10808?type=tcp#https://t.me/VIPV2rayNGNP
 vless://eee985e4-219f-4f53-8fc4-ae5837af0842@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2F%40alaedin%3Fed%3D128&host=alaedin4.8lack.ir&sni=alaedin4.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#https://t.me/VIPV2rayNGNP
 
 
+socks://93.113.230.143:10808?type=tcp#@vipV2rayNGnp
+
+vless://eee985e4-219f-4f53-8fc4-ae5837af0842@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2F%40alaedin%3Fed%3D128&host=alaedin4.8lack.ir&sni=alaedin4.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#@vipV2rayNGnp
+
+
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#https://t.me/Configir98
 
 vless://7986548b-c44c-4b65-9227-4b2cb504e7d5@varzesh3.com:80?path=%2Fws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#https://t.me/Configir98
+
+
+socks://93.113.230.143:10808?type=tcp#https://t.me/Configir98
+
+vless://eee985e4-219f-4f53-8fc4-ae5837af0842@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2F%40alaedin%3Fed%3D128&host=alaedin4.8lack.ir&sni=alaedin4.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#https://t.me/Configir98
 
 
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#v2ray_dalghakکانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
