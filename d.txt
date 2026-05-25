@@ -2,30 +2,21 @@
 
 trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/VIPV2rayNGNP
 
-vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&security=none&encryption=none&type=ws#https://t.me/VIPV2rayNGNP
-
-
-socks://Og@81.12.24.160:26154#https://t.me/VIPV2rayNGNP
+vless://9b7c064f-d435-4204-9b57-031589a744d5@snapp.ir:8080?encryption=none&host=cdn.tiopmfikg.ir&path=%2F&security=none&type=ws#https://t.me/VIPV2rayNGNP
 
 
 trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=ios&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/VIPV2rayNGNP
 
 
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&host=www.calmloud.com&fp=ios&type=ws&sni=www.calmloud.com#https://t.me/VIPV2rayNGNP
-
-
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/Configir98
-
-vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&security=none&encryption=none&type=ws#https://t.me/Configir98
-
-
-socks://Og@81.12.24.160:26154#https://t.me/Configir98
+vless://f9089bd9-610f-4e02-bb2b-346bd3d3b21a@Worker.play97.ir:80?path=%2F&security=none&encryption=none&type=ws#
 
 
 trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&fp=ios&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#https://t.me/Configir98
 
 
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&host=www.calmloud.com&fp=ios&type=ws&sni=www.calmloud.com#https://t.me/Configir98
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/Configir98
+
+vless://9b7c064f-d435-4204-9b57-031589a744d5@snapp.ir:8080?encryption=none&host=cdn.tiopmfikg.ir&path=%2F&security=none&type=ws#https://t.me/Configir98
 
 
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#crgaming7 👈 کانال تلگرامکانفیگ ویتوری 6 ✅خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
@@ -88,10 +79,13 @@ trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F
 socks://Og@94.182.134.187:7073#%CA%B2%E1%B5%92%E2%81%B1%E2%81%BF%20%40MiTi_4vpn
 
 
+vless://98cb5cd8-bc0b-4228-bd22-d9bb0be4ffb5@snapp.ir:8080?path=%2F&security=none&encryption=none&host=penhoon-ref.morvaridvps.ir&type=ws#%CA%B2%E1%B5%92%E2%81%B1%E2%81%BF%20%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8
+
+
 trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&host=www.calmloud.com&fp=ios&type=ws&sni=www.calmloud.com#%DA%86%D9%86%D9%84%20%40amir_webstudio
 
 
-vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws#%40Shomarrreh
+trojan://humanity@188.114.97.3:443?path=%2Fassignment&security=tls&host=www.calmloud.com&fp=ios&type=ws&sni=www.calmloud.com#%40amir_webstudio%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 
 
 socks://Og@81.12.80.194:3030#%40Shomarrreh
@@ -106,3 +100,6 @@ vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&s
 
 
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?security=none&encryption=none&headerType=none&type=tcp#%40Shomarrreh
+
+
+vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=%2F&security=none&encryption=none&type=ws#%D8%A8%DB%8C%D8%A7%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Shomarrreh%40
