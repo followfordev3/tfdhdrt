@@ -1,119 +1,25 @@
 
 
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#https://t.me/VIPV2rayNGNP
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?mode=stream-one&path=%2Fde&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#https://t.me/VIPV2rayNGNP
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.215.250.129:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2048&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/VIPV2rayNGNP G
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.215.250.16:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2048&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/VIPV2rayNGNP D
-
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@217.24.57.7:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2048&host=hio-awx.pages.dev&sni=hio-awx.pages.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/VIPV2rayNGNP S
-
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@130.250.137.171:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2048&host=hio-awx.pages.dev&sni=hio-awx.pages.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8https://t.me/VIPV2rayNGNP A
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.215.250.14:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2048&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/VIPV2rayNGNP M
-
-vless://e8d06b09-acd9-448c-9874-3c36151d36ee@165.215.250.16:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2048&host=icy-wildflower-2590.lihuifeng595.workers.dev&sni=icy-wildflower-2590.lihuifeng595.workers.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/VIPV2rayNGNP N
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@165.215.250.14:443?encryption=none&type=ws&security=tls&path=%2F&host=3-bio.pages.dev&sni=3-bio.pages.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/VIPV2rayNGNP B
-
-trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&fp=chrome&allowInsecure=1&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/VIPV2rayNGNP C
-
-trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&fp=chrome&allowInsecure=1&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/VIPV2rayNGNP X
-
-trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&allowInsecure=1&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/VIPV2rayNGNP Z
+trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#https://t.me/VIPV2rayNGNP
 
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&security=tls&sni=uk1.fromblancwithlove.com&allowInsecure=true&alpn=h2&packetEncoding=xudp#@ultrasurf_12%F0%9F%8D%8B
 
 
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@172.66.47.69:2053?encryption=none&type=ws&security=tls&path=%2F&host=qyi.fqjd663.ggff.net&sni=qyi.fqjd663.ggff.net&allowInsecure=1#https://t.me/Configir98
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#https://t.me/Configir98
-
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.66.47.69:2053?encryption=none&type=ws&security=tls&path=%2Ffast&host=hio-awx.pages.dev&sni=hio-awx.pages.dev&allowInsecure=1#https://t.me/Configir98
-
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@198.62.62.22:443?encryption=none&type=ws&security=tls&path=%2F188.240.213.40%3A443&host=afrcloud5.c01.kr&sni=afrcloud5.c01.kr&allowInsecure=1#https://t.me/Configir98
-
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@63.141.128.45:443?encryption=none&type=ws&security=tls&path=%2F188.240.213.98%3A8443&host=afrcloud5.c01.kr&sni=afrcloud5.c01.kr&allowInsecure=1#https://t.me/Configir98
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.253:443?encryption=none&type=ws&security=tls&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2%3D&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&allowInsecure=1#https://t.me/Configir98
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.253:443?encryption=none&type=ws&security=tls&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2%3D&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&allowInsecure=1#https://t.me/Configir98
+vless://TIGNAL@151.101.1.57:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=%2Flogin&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#-500GB✅ @ProxyMTProtoIR
 
 
-vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=%2F&security=tls&encryption=none&insecure=1&host=pro.nimbaha.info&fp=chrome&type=ws&allowInsecure=1&sni=PrO.nImBaHa.InFo#https://t.me/Configir98
-
-vless://dfe76531-d087-4129-cf5f-41975a1fa894@glob.thisiswe.uno:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=jamal.thisiswe.uno&fp=chrome&type=ws&sni=jamal.thisiswe.uno#https://t.me/Configir98
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#
 
 
-trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#https://t.me/Configir98
+vless://TIGNAL@151.101.1.57:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=%2Flogin&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#-500GB✅ @ProxyMTProtoIR
 
 
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/de&sni=de.xn--q9jyb4c.online&fp=chrome&mode=stream-one#https://t.me/Configir98
-
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.66.47.69:2053?path=%2Ffast&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#https://t.me/Configir98
-
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.16.7.70:2053?path=%2Ffast&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#https://t.me/Configir98
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.33.40:443?path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&encryption=none&insecure=0&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=0&sni=sni.latonyamadeline.ndjp.net#https://t.me/Configir98
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.43:443?security=tls&encryption=none&insecure=0&host=sni.111000.cc.cd&type=ws&allowInsecure=0&sni=sni.111000.cc.cd#https://t.me/Configir98
-
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#https://t.me/Configir98
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.43:443?security=tls&encryption=none&host=sni.111000.cc.cd&type=ws&sni=sni.111000.cc.cd#https://t.me/Configir98
-
-
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#https://t.me/Configir98
-
-
-vless://e3089afa-1e51-40c5-9f33-88ea664a67de@www.speedtest.net:443?path=%2FeyJqdW5rIjoiQzBHSmUyTkEwVTRQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dAyijOoN.MBS-SatEHi.woRkerS.dEv#https://t.me/Configir98
-
-trojan://humanity@188.114.96.4:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/Configir98
-
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#https://t.me/Configir98
-
-vless://f5013d84-762f-4ae5-8ba7-2f21deef762f@91.107.247.25:8443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#https://t.me/Configir98
-
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@211.75.210.32:443?path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&encryption=none&insecure=0&host=1-aym.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=1-aym.pages.dev#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
-
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.111:443?security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
-
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=uk1.fromblancwithlove.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
-
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@211.75.210.32:443?path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&encryption=none&insecure=0&host=1-aym.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=1-aym.pages.dev#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40
-
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.111:443?security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40
-
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=uk1.fromblancwithlove.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40
-
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@211.75.210.32:443?path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&encryption=none&insecure=0&host=1-aym.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=1-aym.pages.dev#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
-
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.111:443?security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
-
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=uk1.fromblancwithlove.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 5 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
-
-
-vless://98cb5cd8-bc0b-4228-bd22-d9bb0be4ffb5@snapp.ir:8080?path=%2F&security=none&encryption=none&host=penhoon-ref.morvaridvps.ir&type=ws#%CA%B2%E1%B5%92%E2%81%B1%E2%81%BF%20%40MiTi_4vpn%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8
+vless://TIGNAL@151.101.1.57:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=%2Flogin&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#-500GB✅ @ProxyMTProtoIR
 
 
 vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=pro.nimbaha.info&fp=chrome&type=ws&allowInsecure=1&sni=PrO.nImBaHa.InFo#%40MiTi_4vpn%F0%9F%A7%A8
 
 vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=pro.nimbaha.info&fp=chrome&type=ws&allowInsecure=1&sni=PrO.nImBaHa.InFo#%40MiTi_4vpn%F0%9F%8C%99
-
-
-trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&fp=ios&type=ws&sni=www.ignitelimit.com#%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%A8%D8%B4%DB%8C%D8%AF%20%40amir_webstudio
-
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@198.62.62.22:443?path=%2F188.240.213.40%3A443&security=tls&encryption=none&host=afrcloud5.c01.kr&type=ws&sni=afrcloud5.c01.kr#%40Amir_Webstudio
-
-
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20%40amir_webstudio
