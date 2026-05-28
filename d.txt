@@ -1,22 +1,5 @@
 
 
-vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#https://t.me/VIPV2rayNGNP
-
-vless://4c843ffe-ba71-4a31-9e9f-acffa72073ef@104.17.163.1:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=library-mirror.sisshark.win&fp=chrome&type=ws&allowInsecure=1&sni=library-mirror.sisshark.win#%https://t.me/VIPV2rayNGNP
-
-vless://d262c258-e73a-47d2-944d-55cfc4bc8fd0@45.39.241.51:23837?path=%2Fws&security=&encryption=none&host=45.39.241.51&type=ws#%https://t.me/VIPV2rayNGNP
-
-vless://5f90f877-31e6-446d-8577-de0018f6e6a8@104.16.7.70:443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=AR2.xuiprospeed.ir&insecure=0&fp=chrome&type=grpc&serviceName=vless&allowInsecure=0&sni=AR2.xuiprospeed.ir#https://t.me/VIPV2rayNGNP
-
-vless://2ee2b77f-e4cd-4e5d-af22-f9d919eeadd5@130.49.219.126:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=at16.fastlanehosting.ru#https://t.me/VIPV2rayNGNP
-
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#https://t.me/VIPV2rayNGNP
-
-vless://3cbd560c-8063-4671-835b-47ba18a0f05f@199.232.57.91:80?path=%2F%3Fed%3D80&security=none&encryption=none&host=jookeji.global.ssl.fastly.net&type=ws#https://t.me/VIPV2rayNGNP
-
-trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=yazhou10.dynu.net#https://t.me/VIPV2rayNGNP
-
-
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&security=tls&sni=uk1.fromblancwithlove.com&allowInsecure=true&alpn=h2&packetEncoding=xudp#@ultrasurf_12%F0%9F%8D%8B
 
 
