@@ -91,11 +91,6 @@ vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=t
 vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?path=%2F&security=none&encryption=none&host=Asaaabi.global.ssl.fastly.net&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨✨
 
 
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#
-
-vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNza2hvZGFtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==✅ @ProxyMTProtoIR
-
-
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.#@
 
 
@@ -109,16 +104,6 @@ vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.225.189:443?security=tls&alpn
 
 
 vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=&encryption=none&headerType=none&type=tcp#@
-
-
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#
-
-vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNza2hvZGFtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==✅ @ProxyMTProtoIR
-
-
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#
-
-vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNza2hvZGFtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==✅ @ProxyMTProtoIR
 
 
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@81.255.155.10:443?path=%2Ftools&security=tls&encryption=none&insecure=0&host=pagescm.freen2.de5.net&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=pagescm.freen2.de5.net#%40MiTi_4vpn...
@@ -157,3 +142,17 @@ vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@129.6.29.254:443?path=%2FeyJqdW5rIj
 vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@129.6.29.252:443?path=%2FeyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&encryption=none&insecure=0&host=r.meDiASHOPPp.sbS&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=r.mediashoppp.sbs#MiTi%20%E2%9C%932
 
 vless://e258977b-e413-4718-a3af-02d75492c349@129.6.29.252:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#MiTi%20%E2%9C%931
+
+
+vless://27302727-9dfa-4975-990e-88c7a63747cd@202.37.33.81:443?path=%2Fassets&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=q.amg64.cc.cd&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=q.amg64.cc.cd#MiTi%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A51
+
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#MiTi%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A52
+
+trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#MiTi%203%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
+
+
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@199.34.228.77:443?path=%2Fdlsecurity%3Dtls&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pagescm.freen27.cc.cd&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=pagescm.freen27.cc.cd#%F0%9D%97%A0%F0%9D%97%B6%F0%9D%97%A7%F0%9D%97%B6%20%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%A3%20%F0%9D%97%A3%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80%F0%9F%A5%B71
+
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@199.34.228.54:443?path=%2Fdlsecurity%3Dtls&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pagescm.freen25.cc.cd&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=pagescm.freen25.cc.cd#%40MiTi_4vpn2
+
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@165.215.250.160:443?path=%2Fdlsecurity%3Dtls&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pagescm.freen24.cc.cd&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=pagescm.freen24.cc.cd#%40MiTi_4vpn%F0%9F%A5%B7%203
