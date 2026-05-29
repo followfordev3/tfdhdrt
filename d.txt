@@ -1,6 +1,67 @@
 
 
-vless://3cbd560c-8063-4671-835b-47ba18a0f05f@199.232.57.91:80?path=%2F%3Fed%3D80&security=none&encryption=none&host=jookeji.global.ssl.fastly.net&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨✨
+vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=Itw.xuiprospeed.ir&mode=auto&sni=Itw.xuiprospeed.ir#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=kUU.xuiprospeed.ir&mode=multi&sni=kUU.xuiprospeed.ir#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=didi.xuiprospeed.ir&mode=auto&sni=didi.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@45.131.6.203:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=fr.xuiprospeed.ir&mode=auto&sni=fr.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=AR2.xuiprospeed.ir&mode=auto&sni=AR2.xuiprospeed.ir&alpn=h2%2Chttp%2F1.1&allowInsecure=1#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=DeS.xuiprospeed.ir&mode=multi&sni=DeS.xuiprospeed.ir&alpn=h2%2Chttp%2F1.1#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://684eefab-a712-4a65-83fd-535112228a6a@95.179.140.164:19857?security=none&encryption=none&headerType=none&type=tcp#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@193.22.229.35:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@91.209.253.225:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.156.19.225:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.149.135.102:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.207.198.170:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://266f49ab-e823-4497-b7a9-78ff51809f2d@104.18.32.47:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=asriran.com.tasnimnews.com.sharghdaily.com.entekhab.ir.farsnews.ir.isna.ir.irdiplomacy.ir&allowInsecure=0&sni=bItTEr-BreADh48GRdp1Bf.cARBONBLacKBMW.IR#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=cdn.hitgram.ir&fp=chrome&type=ws&sni=cdn.hitgram.ir#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+trojan://Mitivpn@208.103.161.1:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?security=reality&encryption=none&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=aabbccdd#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+vless://IRGC@136.244.104.7:114?security=&encryption=none&headerType=none&type=tcp#Join%20%E2%9E%A3%20%40ultrasurf_12
+
+
+vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=hi-wg.pages.dev&sni=hi-wg.pages.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98
+
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@81.255.155.10:443?encryption=none&type=ws&security=tls&path=%2Ftools&host=pagescm.freen2.de5.net&sni=pagescm.freen2.de5.net&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98
+
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98
+
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98
+
+vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=ws-x1.pages.dev&sni=ws-x1.pages.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98
+
+trojan://mitivpn@104.18.32.47:2096?type=ws&security=tls&path=%2F%3Fed%3D2048&sni=www.app-cloud.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/Configir98
+
+trojan://mitivpn@104.18.32.47:8443?type=ws&security=tls&path=%2F%3Fed%3D2048&sni=www.app-cloud.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/Configir98
+
+vless://569dffc8-aa31-4e4f-ae8a-e158421e5b2a@me-and-who.fazelextremeisreal.com:58101?encryption=none&type=tcp&security=reality&headerType=none&sni=refersion.com&fp=chrome&allowInsecure=1&pbk=dcQd16Gscf8M8wbOPE4woBaxQ5uAzdSxDSHhM1VlPEQ&sid=a68ba8&spx=%2F#https://t.me/Configir98
+
+vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=hi-wg.pages.dev&sni=hi-wg.pages.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98
+
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@81.255.155.10:443?encryption=none&type=ws&security=tls&path=%2Ftools&host=pagescm.freen2.de5.net&sni=pagescm.freen2.de5.net&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98
+
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98
+
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98
+
+vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=ws-x1.pages.dev&sni=ws-x1.pages.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98
+
+vless://942469ee-7f8e-443d-bfd2-4f8b1faa5970@199.232.57.91:80?encryption=none&type=ws&path=%2F%3Fed%3D2056&host=Api.nHl14.iR.#https://t.me/Configir98
 
 
 vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@84.32.70.206:443?security=reality&encryption=none&pbk=FhYXVO-0BlCdga4MFczEVVC_clTA2UaIhWUiaWvYlR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dfgh.falsemirrov.com&sid=fb2a682d44bdc70c#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨✨
@@ -12,9 +73,6 @@ vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=t
 vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?path=%2F&security=none&encryption=none&host=Asaaabi.global.ssl.fastly.net&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 4 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨✨
 
 
-vless://3cbd560c-8063-4671-835b-47ba18a0f05f@199.232.57.91:80?path=%2F%3Fed%3D80&security=none&encryption=none&host=jookeji.global.ssl.fastly.net&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40
-
-
 vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@84.32.70.206:443?security=reality&encryption=none&pbk=FhYXVO-0BlCdga4MFczEVVC_clTA2UaIhWUiaWvYlR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dfgh.falsemirrov.com&sid=fb2a682d44bdc70c#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40
 
 
@@ -22,9 +80,6 @@ vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=t
 
 
 vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?path=%2F&security=none&encryption=none&host=Asaaabi.global.ssl.fastly.net&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40
-
-
-vless://3cbd560c-8063-4671-835b-47ba18a0f05f@199.232.57.91:80?path=%2F%3Fed%3D80&security=none&encryption=none&host=jookeji.global.ssl.fastly.net&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨✨
 
 
 vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@84.32.70.206:443?security=reality&encryption=none&pbk=FhYXVO-0BlCdga4MFczEVVC_clTA2UaIhWUiaWvYlR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dfgh.falsemirrov.com&sid=fb2a682d44bdc70c#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨✨
@@ -39,6 +94,21 @@ vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?path=%2F&security=
 vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#
 
 vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNza2hvZGFtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==✅ @ProxyMTProtoIR
+
+
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.#@
+
+
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?path=%2F%3Fed&security=tls&encryption=none&insecure=0&fp=360&type=ws&allowInsecure=0&sni=fl0.lizardshop.org#@
+
+
+vless://7753daae-6164-45ae-8715-86d67112b6cc@5.160.243.153:3000?security=&encryption=none&headerType=&type=tcp#@
+
+
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.225.189:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#@
+
+
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=&encryption=none&headerType=none&type=tcp#@
 
 
 vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#
@@ -75,3 +145,15 @@ vless://27302727-9dfa-4975-990e-88c7a63747cd@63.141.128.3:443?path=%2F&security=
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@129.6.29.253:443?path=%2F&security=tls&encryption=none&insecure=0&host=sn1.skylee5.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=sn1.skylee5.cloudns.ch#%40MiTi_4vpn__5%F0%9F%87%B1%F0%9F%87%B7
 
 vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%40MiTi_4vpn__4%F0%9F%87%B1%F0%9F%87%B7
+
+
+trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#MiTi%20123
+
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#MiTi%20%F0%9F%87%A6%F0%9F%87%AC1
+
+
+vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@129.6.29.254:443?path=%2FeyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&encryption=none&insecure=0&host=r.meDiASHOPPp.sbS&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=r.mediashoppp.sbs#MiTi%E2%9C%933
+
+vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@129.6.29.252:443?path=%2FeyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&encryption=none&insecure=0&host=r.meDiASHOPPp.sbS&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=r.mediashoppp.sbs#MiTi%20%E2%9C%932
+
+vless://e258977b-e413-4718-a3af-02d75492c349@129.6.29.252:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#MiTi%20%E2%9C%931
