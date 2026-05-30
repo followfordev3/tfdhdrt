@@ -1,50 +1,5 @@
 
 
-trojan://humanity@216.24.57.6:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@45.130.125.76:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@104.17.121.71:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@104.17.121.9:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@104.17.121.37:443?type=ws&security=tls&path=%2Fassignment&host=www.gossipglove.com&sni=www.gossipglove.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@216.24.57.6:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP
-
-vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=%2Fassignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP اگه وصل نشدید با سایفون ترکیب کنید@VIPV2rayNGNP
-
-
-trojan://humanity@216.24.57.6:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@45.130.125.76:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@104.17.121.71:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@104.17.121.9:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@104.17.121.37:443?type=ws&security=tls&path=%2Fassignment&host=www.gossipglove.com&sni=www.gossipglove.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@216.24.57.6:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP
-
-vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=%2Fassignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP
-
-
-trojan://humanity@216.24.57.6:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@45.130.125.76:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@104.17.121.71:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@104.17.121.9:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@104.17.121.37:443?type=ws&security=tls&path=%2Fassignment&host=www.gossipglove.com&sni=www.gossipglove.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/VIPV2rayNGNP
-
-trojan://humanity@216.24.57.6:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP
-
-vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=%2Fassignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#https://t.me/VIPV2rayNGNP اگه وصل نشدید با سایفون ترکیب کنید@VIPV2rayNGNP
-
-
 vless://9ca41eeb-4b30-4271-a123-22021b1230d0@104.17.121.71:443?mode=auto&path=%2FTelegram-Zedmodeon&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=mano.tll-far.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mano.tll-far.ir#%F0%9F%87%A9%F0%9F%87%AA%40ultrasurf_12ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRW5aZWRwMm1rVGJUMXFD@4.168.201.246:443#%F0%9F%87%BF%F0%9F%87%A6%40ultrasurf_12
 
 trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%40ultrasurf_12
@@ -59,11 +14,6 @@ vless://a3eb4c35-c1df-4448-968c-f6229cba9de0@probabblynot.fazelextremeisreal.com
 vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=%2Fassignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#@ultrasurf_12
 
 vless://a9160eba-23cd-407d-8cb3-39a2bc43148c@45.130.125.69:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&allowinsecure=1&type=grpc&serviceName=sharghdaily.com.tasnimnews.com.yjc.ir.entekhab.ir.tasnimnews.com.isna.ir.entekhab.ir&sni=sHort-aCtIon40S8o1J3v9.SaMSUNgOVEnS.Ir#@ultrasurf_12
-
-
-vless://de8b874f-0b15-440c-b257-ce68852ffad0@forssa.libenet.ir:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=2418ed47b875e923#T.me/CONFiGiR98_1
-
-vless://3dbf131b-dbf6-4660-b97b-003199b17686@cd4.baguvix.xyz:2053?security=tls&type=ws&headerType=&path=%2Fws%3Fed%3D2560&host=c7.app9.ir&sni=c7.app9.ir&fp=#T.me/CONFiGiR98_2
 
 
 trojan://humanity@216.24.57.6:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#T.me/CONFiGiR98
@@ -115,65 +65,6 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&en
 
 
 vless://dc308cf1-ee7e-4071-8fa5-2c1ff2e3094c@45.130.125.76:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=isna.ir.jamejamonline.ir.alalamtv.net.farsnews.ir.entekhab.ir.ifpnews.com.alef.ir&allowInsecure=0&sni=WhImsIcAl-DefINiTIONPegPHM2bT5.WINDLeR.co.Uk#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری جدید ✅خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨✨
-
-
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%40MiTi_4vpn
-
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@81.255.155.10:443?path=%2Ftools&security=tls&encryption=none&insecure=0&host=pagescm.freen2.de5.net&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=pagescm.freen2.de5.net#MiTi%20%F0%9F%92%9B
-
-vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?path=%2F&security=tls&encryption=none&insecure=0&host=hi-wg.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hi-wg.pages.dev#MiTi%E2%9D%A4
-
-
-vless://27302727-9dfa-4975-990e-88c7a63747cd@199.34.228.77:443?path=%2F&security=tls&encryption=none&insecure=0&host=hi-wg.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hi-wg.pages.dev#%40MiTi_4vpn%20%E2%99%A51
-
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%40MiTi_4vpn%E2%99%A52
-
-vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.7:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%40MiTi_4vpn%E2%99%A53
-
-vless://27302727-9dfa-4975-990e-88c7a63747cd@63.141.128.3:443?path=%2F&security=tls&encryption=none&insecure=0&host=ws-x1.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=ws-x1.pages.dev#%40MiTi_4vpn%E2%99%A54
-
-
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@129.6.29.253:443?path=%2F&security=tls&encryption=none&insecure=0&host=sn1.skylee5.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=sn1.skylee5.cloudns.ch#%40MiTi_4vpn__5%F0%9F%87%B1%F0%9F%87%B7
-
-vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%40MiTi_4vpn__4%F0%9F%87%B1%F0%9F%87%B7
-
-
-trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#MiTi%20123
-
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#MiTi%20%F0%9F%87%A6%F0%9F%87%AC1
-
-
-vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@129.6.29.254:443?path=%2FeyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&encryption=none&insecure=0&host=r.meDiASHOPPp.sbS&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=r.mediashoppp.sbs#MiTi%E2%9C%933
-
-vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@129.6.29.252:443?path=%2FeyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&encryption=none&insecure=0&host=r.meDiASHOPPp.sbS&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=r.mediashoppp.sbs#MiTi%20%E2%9C%932
-
-vless://e258977b-e413-4718-a3af-02d75492c349@129.6.29.252:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#MiTi%20%E2%9C%931
-
-
-vless://27302727-9dfa-4975-990e-88c7a63747cd@202.37.33.81:443?path=%2Fassets&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=q.amg64.cc.cd&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=q.amg64.cc.cd#MiTi%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A51
-
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#MiTi%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A52
-
-trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#MiTi%203%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
-
-
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@199.34.228.77:443?path=%2Fdlsecurity%3Dtls&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pagescm.freen27.cc.cd&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=pagescm.freen27.cc.cd#%F0%9D%97%A0%F0%9D%97%B6%F0%9D%97%A7%F0%9D%97%B6%20%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%A3%20%F0%9D%97%A3%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80%F0%9F%A5%B71
-
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@199.34.228.54:443?path=%2Fdlsecurity%3Dtls&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pagescm.freen25.cc.cd&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=pagescm.freen25.cc.cd#%40MiTi_4vpn2
-
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@165.215.250.160:443?path=%2Fdlsecurity%3Dtls&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pagescm.freen24.cc.cd&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=pagescm.freen24.cc.cd#%40MiTi_4vpn%F0%9F%A5%B7%203
-
-
-vless://6754a03d-dbea-409a-9fed-ac4dcd770dec@151.101.57.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#%40MiTi_4vpn%209%F0%9F%98%92
-
-vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.65.58.129:443?security=none&encryption=none&headerType=none&type=tcp#%40MiTi_4vpn%2012%F0%9F%98%92
-
-
-trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%40MiTi_4vpn3%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
-
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#%40MiTi_4vpn
-
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#%40MiTi_4vpn
 
 
 vless://5b6e7300-8fc8-404e-8dc9-40a5393dd881@43.169.18.179:80?path=%2FXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn%3Fed%3D2560&security=&encryption=none&host=line.smartphone1.azazilvpn.sbs&type=ws#%40Amir_Webstudio
