@@ -17,11 +17,6 @@ vless://9bab5218-ce9f-4991-9887-8b3605a27d5e@188.114.97.6:443?path=%2Fsg-amz&sec
 vless://429f43ca-087a-4fbc-9d88-9d9007bf30bc@188.114.97.6:443?path=%2Fmy-wbv&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#https://t.me/VIPV2rayNGNP
 
 
-vless://f7d6927b-12bf-4390-aeca-fd7ebc3ae841@104.17.121.71:2096?security=tls&allowInsecure=0&encryption=none&type=grpc&sni=hOSPiTABLE-dEpARtmENt77lrTfwQWh.windLEr.co.UK&fp=chrome&serviceName=alef.ir.ilna.news.irannewsdaily.com.farsnews.ir.alef.ir.irdiplomacy.ir.irna.ir&alpn=h2,http/1.1#ultrasurf_12
-
-vless://c89ba1c4-1e7b-4457-b7cf-a70334f1b96d@45.130.125.76:2096?encryption=none&type=grpc&security=tls&serviceName=asriran.com.rajanews.com.alalamtv.net.fararu.com.irna.ir.iribnews.ir.mizanonline.com&sni=BRAVe-ExTEnsIonyv4AV6w91i.SaMsUngOVENs.iR&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#ultrasurf_12%2540%2520%253A%2520%25D9%2582%25D9%2587%25D9%2588%25D9%2587%25E2%2598%2595%25EF%25B8%258F%25202%2520
-
-
 vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkBwcm94eV9rYWZlZSAx8J+YjSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vless://7d309744-800a-4fb4-813b-e6a8ab28c4f6@5.75.252.191:27620?path=%2F&security=none&encryption=none&type=ws#%40ultrasurf_12%20%F0%9F%98%8D2
