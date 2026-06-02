@@ -141,9 +141,6 @@ vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&
 vless://3617290e-f2e0-4eb5-9576-a610aa6f2c95@104.167.199.23:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=104.167.199.23&mode=auto&path=%2Fmohraz&pbk=wtVFe9j0FtOMtxUBKJqjd7NZs9-47lsjbnUlWq_MGEs&security=reality&sid=26a4&sni=www.samsung.com&type=xhttp#%40ProxyMTProtoIR✅ @ProxyMTProtoIR
 
 
-vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=graph.instagram.com.cyylr.eu.cc&path=/id-tksi&sni=graph.instagram.com.cyylr.eu.cc&fp=chrome#@
-
-
 vless://3617290e-f2e0-4eb5-9576-a610aa6f2c95@104.167.199.23:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=104.167.199.23&mode=auto&path=%2Fmohraz&pbk=wtVFe9j0FtOMtxUBKJqjd7NZs9-47lsjbnUlWq_MGEs&security=reality&sid=26a4&sni=www.samsung.com&type=xhttp#%40
 
 
