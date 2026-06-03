@@ -15,6 +15,23 @@ trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tks
 vless://334e484f-7f7c-4895-a6e4-8951de2626f8@188.114.97.6:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#https://t.me/VIPV2rayNGNP
 
 
+vless://a75c027c-dc95-4efd-894a-2c85f0186017@162.19.132.77:2095?security=none&encryption=none&headerType=none&type=tcp#https://t.me/VIPV2rayNGNP
+
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+
+vless://762ca06a-daba-4510-8533-7ba0667fb1f1@188.137.230.245:8880?path=%2F&security=none&encryption=none&host=188.137.230.245&type=ws#https://t.me/VIPV2rayNGNP
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#https://t.me/VIPV2rayNGNP
+
+vless://3d08f4ea-0207-4098-a17d-e6de41463c49@45.130.125.160:443?path=%2F%3Fed%3D80%2F%3FTELEGRAM--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&encryption=none&insecure=0&host=ssj.new-persian-song.ir&fp=chrome&type=ws&allowInsecure=0&sni=ssj.new-persian-song.ir#https://t.me/VIPV2rayNGNP
+
+vless://334e484f-7f7c-4895-a6e4-8951de2626f8@188.114.97.6:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#https://t.me/VIPV2rayNGNP
+
+vless://3b01a777-55e7-49f6-8637-d94ee69607c6@188.114.97.6:443?path=%2Fid-tksi&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#https://t.me/VIPV2rayNGNP
+
+vless://559ab675-567f-4d61-a742-877bfd51d87c@188.114.97.6:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#https://t.me/VIPV2rayNGNP
+
+
 vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkBwcm94eV9rYWZlZSAx8J+YjSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vless://7d309744-800a-4fb4-813b-e6a8ab28c4f6@5.75.252.191:27620?path=%2F&security=none&encryption=none&type=ws#%40ultrasurf_12%20%F0%9F%98%8D2
@@ -23,23 +40,6 @@ vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&
 
 
 vless://258dc62e-e7fe-4993-9b73-3203b47998ea@45.130.125.76:2096?encryption=none&type=ws&host=KhoshAmadid.x-upload.org&path=/&security=tls&sni=KhoshAmadid.x-upload.org#%F0%9F%92%99ultrasurf_12%F0%9F%92%99
-
-
-vless://9232a847-8f7d-4548-a23a-a8b3550e0f15@188.114.97.6:443?path=%2Fid-tksi&security=tls&encryption=none&insecure=0&host=grabacademyportal.grab.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=grabacademyportal.grab.com.cyylr.eu.cc#T.me/CONFiGiR98
-
-vless://0a4eabad-a6b8-4f4a-b610-4540b9c8f49a@188.114.97.6:443?path=%2Fsg-orcl&security=tls&encryption=none&insecure=0&host=ava.game.naver.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ava.game.naver.com.cyylr.eu.cc#T.me/CONFiGiR98
-
-vless://8df10d83-3963-446d-a4e3-8bc043bda561@188.114.97.6:443?path=%2Fin-pdr&security=tls&encryption=none&insecure=0&host=space.byu.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.cyylr.eu.cc#T.me/CONFiGiR98
-
-vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#T.me/CONFiGiR98
-
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#T.me/CONFiGiR98
-
-vless://559ab675-567f-4d61-a742-877bfd51d87c@188.114.97.6:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#T.me/CONFiGiR98
-
-vless://9bab5218-ce9f-4991-9887-8b3605a27d5e@188.114.97.6:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#T.me/CONFiGiR98
-
-vless://429f43ca-087a-4fbc-9d88-9d9007bf30bc@188.114.97.6:443?path=%2Fmy-wbv&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#T.me/CONFiGiR98
 
 
 vless://a75c027c-dc95-4efd-894a-2c85f0186017@162.19.132.77:2095?security=none&encryption=none&headerType=none&type=tcp#T.me/CONFiGiR98
