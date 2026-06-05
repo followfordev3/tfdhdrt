@@ -15,9 +15,6 @@ trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=%2Fid-tks
 vless://334e484f-7f7c-4895-a6e4-8951de2626f8@188.114.97.6:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#https://t.me/VIPV2rayNGNP
 
 
-vless://258dc62e-e7fe-4993-9b73-3203b47998ea@45.130.125.76:2096?encryption=none&type=ws&host=KhoshAmadid.x-upload.org&path=/&security=tls&sni=KhoshAmadid.x-upload.org#%F0%9F%92%99ultrasurf_12%F0%9F%92%99
-
-
 vless://d9569dcd-b246-ebec-50a9-bc9dc5c43041@89.42.139.167:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=iran.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=iran.ir#Join ➣ ultrasurf_12
 
 vless://d9569dcd-b246-ebec-50a9-bc9dc5c43041@185.2.15.126:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=iran.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=iran.ir#Join ➣ ultrasurf_12
