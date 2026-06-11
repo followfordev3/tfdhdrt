@@ -27,13 +27,13 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&enc
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 2 ✅ خوب بود ری اکشن بزنید ❤ 😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
 
 
-vless://0309d0f2-8d85-4ff7-8cbf-fc424ead1254@188.164.248.33:2083?path=%2Fproxyip%3D144.31.250.113&security=tls&encryption=none&insecure=0&host=w1-sparkling-brook-0731.planer9023.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=w1-sparkling-brook-0731.planer9023.workers.dev#%40Shomarrreh%20%C2%B9
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@167.104.223.68:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&sid=d82fb387&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none#%40Amir_webstudio¹
 
-vless://0309d0f2-8d85-4ff7-8cbf-fc424ead1254@104.16.249.189:443?path=%2Fproxyip%3D2.27.7.205&security=tls&encryption=none&insecure=0&host=w2-autumn-band-31e22.plawoen2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=w2-autumn-band-31e22.plawoen2.workers.dev#%40Shomarrreh%20%C2%B2
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@195.184.247.252:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&sid=d82fb387&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none#%40Amir_webstudio²
 
-vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?path=%2Fproxyip%3D89.208.96.167&security=tls&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#%40Shomarrreh%20%C2%B3
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@31.56.188.15:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=mi.com&sid=be0ce047&fp=firefox&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none#%40Amir_webstudio³
 
-vless://0309d0f2-8d85-4ff7-8cbf-fc424ead1254@104.19.174.44:443?path=%2Fproxyip%3D144.31.250.113&security=tls&encryption=none&insecure=0&host=w1-sparkling-brook-0731.planer9023.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=w1-sparkling-brook-0731.planer9023.workers.dev#%40Shomarrreh%20%E2%81%B4
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@45.86.159.170:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&sid=be0ce047&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none#%40Amir_webstudio⁴
 
 
 vless://053cebab-de6a-47a1-af86-ed49948dc289@104.16.75.127:443?path=%2Fca-cl&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#%40Shomarrreh%20%C2%B9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%40Shomarrreh%20%C2%B2
