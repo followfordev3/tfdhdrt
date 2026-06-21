@@ -1,3 +1,27 @@
 
 
-vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?security=none&encryption=none&headerType=http&type=tcp#%40
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@ipw.ygdfw.com:443?mode=stream-one&path=%2Fmeti&security=tls&encryption=none&extra=%7B%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=liVe-91r62s9R.bAlancEraPpLB9978.iNfo&fp=chrome&type=xhttp&allowInsecure=0&sni=liVe-91r62s9R.bAlancEraPpLB9978.iNfo#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨✨
+
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.113:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 2 ✅ سرور ترکیه 🇹🇷 خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨✨✨
+
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 3 ✅ سرور ترکیه 🇹🇷خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
+
+
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@ipw.ygdfw.com:443?mode=stream-one&path=%2Fmeti&security=tls&encryption=none&extra=%7B%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=liVe-91r62s9R.bAlancEraPpLB9978.iNfo&fp=chrome&type=xhttp&allowInsecure=0&sni=liVe-91r62s9R.bAlancEraPpLB9978.iNfo#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40
+
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.113:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40
+
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40
+
+
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@ipw.ygdfw.com:443?mode=stream-one&path=%2Fmeti&security=tls&encryption=none&extra=%7B%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=liVe-91r62s9R.bAlancEraPpLB9978.iNfo&fp=chrome&type=xhttp&allowInsecure=0&sni=liVe-91r62s9R.bAlancEraPpLB9978.iNfo#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری ✅ خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨✨
+
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.113:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 2 ✅ سرور ترکیه 🇹🇷 خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨✨✨
+
+
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40کانفیگ ویتوری 3 ✅ سرور ترکیه 🇹🇷خوب بود ری اکشن بزنید ❤😊 https://t.me/crgaming7✨✨✨✨✨✨✨✨
