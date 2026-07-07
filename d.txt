@@ -1,3 +1,3 @@
 
 
-vless://8cc4e5fa-943c-4bd7-93f1-02309c0a6b96@fl.purchasemarketing.com:443?encryption=none&type=ws&security=tls&path=%2F&host=bazaryabab.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#T.me/CONFiGiR98
+vless://0ba3a586-41bf-4bd3-927d-d90fa6eae606@reseau.proxy.rlwy.net:42209?type=xhttp&encryption=none&path=%2F&host=&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&security=reality&pbk=UtjSlJBNh567Au9KgMhz485dPC6-Tx-ZjAN6ubEvjH0&fp=chrome&sni=is1-ssl.mzstatic.com&sid=8ebd90725f4448&spx=%2F#admin101%20-%D8%A8%D8%B1%D8%A7%DB%8C%20%D9%87%D9%85%D9%87%20%40amir_webstudio
